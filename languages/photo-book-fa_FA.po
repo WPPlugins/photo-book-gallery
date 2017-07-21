@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: fa\n"
+
+#: class.main.php:33 class.main.php:44
+msgid "Photo Books"
+msgstr "عکس کتاب"
+
+#: class.main.php:34 plugin.class.php:76 plugin.class.php:164
+msgid "Photo Book"
+msgstr "عکس کتاب"
+
+#: class.main.php:36 plugin.class.php:156 plugin.class.php:239
+msgid "Add New Book"
+msgstr "اضافه کردن کتاب جدید"
+
+#: class.main.php:37
+msgid "Edit Book"
+msgstr "ویرایش کتاب"
+
+#: class.main.php:38
+msgid "New Book"
+msgstr "کتاب جدید"
+
+#: class.main.php:39
+msgid "View Photo Book"
+msgstr "نمایش عکس کتاب"
+
+#: class.main.php:40
+msgid "Search Books"
+msgstr "کتاب جستجو"
+
+#: class.main.php:41
+msgid "No Photo Books found"
+msgstr "بدون عکس کتاب پیدا شده است"
+
+#: class.main.php:42
+msgid "No Photo Books found in Trash"
+msgstr "بدون عکس کتاب های پیدا شده در سطل زباله"
+
+#: class.main.php:43
+msgid "Parent Book:"
+msgstr "کتاب پدر و مادر:"
+
+#: class.main.php:85
+msgid "Images"
+msgstr "تصاویر"
+
+#: class.main.php:87
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: class.main.php:89
+msgid "Help and Support"
+msgstr "راهنما و پشتیبانی"
+
+#: class.main.php:95
+msgid "Use following shortcode in text section of editor."
+msgstr "استفاده از زیر کوتاه در بخش متن ویرایشگر."
+
+#: class.main.php:105
+msgid "Having trouble? Book is not working properly?"
+msgstr "داشتن مشکل؟ کتاب به درستی کار نمی کند؟"
+
+#: class.main.php:106
+msgid "How to use"
+msgstr "چگونه به استفاده از"
+
+#: class.main.php:107
+msgid "contact us for help"
+msgstr "تماس با ما برای کمک"
+
+#: class.main.php:111
+msgid "Why Upgrade to Pro?"
+msgstr "چرا به نرم افزار ارتقاء؟"
+
+#: class.main.php:113
+msgid ""
+"In pro version you will be able to add page title and chapter title with "
+"each page."
+msgstr ""
+"در نسخه حرفه ای شما قادر به اضافه کردن عنوان صفحه و عنوان فصل با هر صفحه "
+"خواهد بود."
+
+#: class.main.php:114
+msgid "By upgrading to pro, your existing books will remain saved."
+msgstr ""
+"با ارتقاء به نرم افزار، کتاب های موجود خود را باقی می ماند ذخیره خواهد شد."
+
+#: class.main.php:117
+msgid "Unlock Pro Features"
+msgstr "باز کردن ویژگی های نرم افزار"
+
+#: class.main.php:120
+msgid "Visual Composer Addon"
+msgstr "ویژوال آهنگساز افزونه"
+
+#: class.main.php:122
+msgid "Photo Book is now available as visual composer extension"
+msgstr "عکس کتاب در حال حاضر به عنوان پسوند آهنگساز بصری در دسترس"
+
+#: class.main.php:123
+msgid "Get Here"
+msgstr "مطلع در اینجا"
+
+#: class.main.php:126
+msgid "Real 3D Flip Book"
+msgstr "فلیپ کتاب 3D واقعی"
+
+#: class.main.php:128
+msgid "We have developed a new plugin with real 3d effect and touch support"
+msgstr "ما یک پلاگین جدید با اثر 3D واقعی و پشتیبانی لمسی توسعه داده اند"
+
+#: class.main.php:129
+msgid "Download FREE"
+msgstr "دانلود رایگان"
+
+#: class.main.php:163
+msgid "Looking for Real 3D Book?"
+msgstr "در حال جستجو برای 3D واقعی کتاب؟"
+
+#: class.main.php:166
+msgid "Download Real 3D Flip Book"
+msgstr "دانلود Real 3D تلنگر کتاب"
+
+#: class.main.php:291 class.main.php:312 class.main.php:343 class.main.php:360
+msgid "Default"
+msgstr "به طور پیش فرض"
+
+#: class.main.php:298 class.main.php:319 class.main.php:367
+msgid "Pro Feature"
+msgstr "ویژگی های حرفه ای"
+
+#: class.main.php:357 plugin.class.php:111 plugin.class.php:117
+#: plugin.class.php:124 plugin.class.php:130 plugin.class.php:132
+#: plugin.class.php:197 plugin.class.php:204 plugin.class.php:210
+#: plugin.class.php:212 plugin.class.php:224
+msgid "Enable"
+msgstr "قادر ساختن"
+
+#: plugin.class.php:62
+msgid "Photo Book Gallery Settings"
+msgstr "تنظیمات گالری عکس کتاب"
+
+#: plugin.class.php:65
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: plugin.class.php:65
+msgid "Please use new system to create Photo Books"
+msgstr "لطفا برای استفاده از سیستم های جدید برای ایجاد عکس کتاب"
+
+#: plugin.class.php:66
+msgid "HERE"
+msgstr "اینجا"
+
+#: plugin.class.php:69
+msgid "Dismiss this notice"
+msgstr "پنهانکردن این اطلاع"
+
+#: plugin.class.php:78 plugin.class.php:166 settings_fields.php:6
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: plugin.class.php:81 plugin.class.php:169 settings_fields.php:12
+msgid "Book Width"
+msgstr "عرض کتاب"
+
+#: plugin.class.php:84 plugin.class.php:88 plugin.class.php:171
+#: plugin.class.php:174
+msgid "Leave Blank for Responsive"
+msgstr "خالی بگذارید پاسخگو"
+
+#: plugin.class.php:86 plugin.class.php:172 settings_fields.php:20
+msgid "Book Height"
+msgstr "ارتفاع کتاب"
+
+#: plugin.class.php:91 plugin.class.php:177 settings_fields.php:28
+msgid "Speed"
+msgstr "سرعت"
+
+#: plugin.class.php:93 plugin.class.php:179 settings_fields.php:48
+msgid "Starting Page"
+msgstr "شروع صفحه"
+
+#: plugin.class.php:97 plugin.class.php:183 settings_fields.php:36
+msgid "Reading Direction"
+msgstr "جهت خواندن"
+
+#: plugin.class.php:100 plugin.class.php:186 settings_fields.php:38
+msgid "Right to Left"
+msgstr "راست به چپ"
+
+#: plugin.class.php:101 plugin.class.php:187 settings_fields.php:39
+msgid "Left to Right"
+msgstr "چپ به راست"
+
+#: plugin.class.php:104 plugin.class.php:190 settings_fields.php:116
+msgid "Page Padding"
+msgstr "صفحه پارچه کشی"
+
+#: plugin.class.php:108 plugin.class.php:194 settings_fields.php:124
+msgid "Page Numbers"
+msgstr "شماره صفحه"
+
+#: plugin.class.php:109 plugin.class.php:136 plugin.class.php:138
+#: plugin.class.php:195 plugin.class.php:216 plugin.class.php:218
+msgid "Show"
+msgstr "نمایش"
+
+#: plugin.class.php:110 plugin.class.php:196 settings_fields.php:86
+msgid "Closed Book"
+msgstr "کتاب بسته"
+
+#: plugin.class.php:114 plugin.class.php:221
+msgid "Book Title (for your reference)"
+msgstr "عنوان کتاب (به عنوان مرجع خود)"
+
+#: plugin.class.php:116 plugin.class.php:223
+msgid "Zoom on Hover"
+msgstr "زوم بر روی شناور"
+
+#: plugin.class.php:120 plugin.class.php:200 settings_fields.php:140
+msgid "Controls"
+msgstr "کنترل"
+
+#: plugin.class.php:123 plugin.class.php:203
+msgid "AutoPlay"
+msgstr "پخش خودکار"
+
+#: plugin.class.php:125 plugin.class.php:205
+msgid "AutoPlay delay for each page (in ms)"
+msgstr "تاخیر پخش خودکار برای هر صفحه (در MS)"
+
+#: plugin.class.php:129
+msgid "Turn Page by clicking Image"
+msgstr "روشن کردن صفحه با کلیک کردن تصویر"
+
+#: plugin.class.php:131 plugin.class.php:211 settings_fields.php:298
+msgid "Keyboard Controls"
+msgstr "کنترل صفحه کلید"
+
+#: plugin.class.php:135 plugin.class.php:215 settings_fields.php:202
+msgid "Navigation Tabs"
+msgstr "ناوبری برگه ها"
+
+#: plugin.class.php:137 plugin.class.php:217 settings_fields.php:258
+msgid "Arrows"
+msgstr "فلش"
+
+#: plugin.class.php:155 plugin.class.php:238
+msgid "Delete"
+msgstr "حذف"
+
+#: plugin.class.php:157 plugin.class.php:240 render_box_contents.php:4
+msgid "Upload Images"
+msgstr "آپلود تصاویر"
+
+#: plugin.class.php:159 plugin.class.php:242
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: plugin.class.php:209
+msgid "Turn Page by clicking anywhere"
+msgstr "روشن کردن صفحه با کلیک کردن در هر نقطه"
+
+#: plugin.class.php:249
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: plugin.class.php:251
+msgid "Changes Saved"
+msgstr "تغییرات ذخیره شد"
+
+#: settings_fields.php:13
+msgid "Provide width for closed book in pixels, leave blank for responsive"
+msgstr "ارائه عرض برای کتاب بسته در پیکسل، خالی بگذارید پاسخگو"
+
+#: settings_fields.php:21
+msgid "Provide height for book in pixels, leave blank for responsive"
+msgstr "ارائه ارتفاع برای کتاب در پیکسل، خالی بگذارید پاسخگو"
+
+#: settings_fields.php:29
+msgid "Provide speed of page turn in milliseconds"
+msgstr "ارائه سرعت به نوبه خود صفحه در میلی ثانیه"
+
+#: settings_fields.php:41
+msgid "Choose reading direction for pages"
+msgstr "انتخاب جهت خواندن برای صفحات"
+
+#: settings_fields.php:49
+msgid "Provide starting page for the book"
+msgstr "ارائه صفحه شروع برای این کتاب"
+
+#: settings_fields.php:56
+msgid "Easing"
+msgstr "کاهش"
+
+#: settings_fields.php:57
+msgid "Easing method for the complete page transition"
+msgstr "روش کاهش برای انتقال صفحه کامل"
+
+#: settings_fields.php:64
+msgid "Ease In"
+msgstr "سهولت در"
+
+#: settings_fields.php:65
+msgid "Easing method for the first half of the page transition"
+msgstr "روش کاهش برای نیمه اول انتقال صفحه"
+
+#: settings_fields.php:72
+msgid "Ease Out"
+msgstr "سهولت"
+
+#: settings_fields.php:73
+msgid "Easing method for the second half of the page transition"
+msgstr "روش کاهش برای نیمه دوم انتقال صفحه"
+
+#: settings_fields.php:80
+msgid "Closed Book and Covers"
+msgstr "بسته کتاب و پوشش"
+
+#: settings_fields.php:87
+msgid "Enable it to give the book the appearance of being closed"
+msgstr "فعال کردن آن را به کتاب ظاهر بسته شدن"
+
+#: settings_fields.php:94
+msgid "Covers"
+msgstr "پوشش"
+
+#: settings_fields.php:95
+msgid "Makes the first and last pages into covers by hiding page numbers"
+msgstr "باعث می شود صفحات اول و آخر را پوشش می دهد با پنهان کردن شماره صفحه"
+
+#: settings_fields.php:102
+msgid "Auto Center"
+msgstr "مرکز خودرو"
+
+#: settings_fields.php:103
+msgid "Makes the book position in the center of its container when closed"
+msgstr "باعث می شود موقعیت کتاب در مرکز ظرف خود را هنگامی که بسته است"
+
+#: settings_fields.php:110
+msgid "Pages"
+msgstr "صفحات"
+
+#: settings_fields.php:117
+msgid "Provide inner space for pages in pixels"
+msgstr "ارائه فضای داخلی برای صفحات در پیکسل"
+
+#: settings_fields.php:125
+msgid "Check to display page numbers"
+msgstr "را جهت نمایش شماره صفحه"
+
+#: settings_fields.php:132
+msgid "Page Border"
+msgstr "صفحه مرزی"
+
+#: settings_fields.php:133
+msgid "The size of the border around each page"
+msgstr "اندازه مرز در اطراف هر صفحه"
+
+#: settings_fields.php:146
+msgid "Manual Control"
+msgstr "کنترل دستی"
+
+#: settings_fields.php:147
+msgid "Enables manual page turning using click and drag"
+msgstr "صفحه عطف دستی با استفاده از کلیک و کشیدن را قادر می سازد"
+
+#: settings_fields.php:154
+msgid "Hovers"
+msgstr "قراردادن موشواره"
+
+#: settings_fields.php:155
+msgid "Shows a small preview of page turn on hover"
+msgstr "نشان می دهد یک پیش نمایش کوچک از صفحه نوبه خود بر روی شناور"
+
+#: settings_fields.php:162
+msgid "Hover Width"
+msgstr "شناور عرض"
+
+#: settings_fields.php:163
+msgid "The width of the page turn hover preview in pixels"
+msgstr "عرض صفحه نوبه خود پیش نمایش شناور در پیکسل"
+
+#: settings_fields.php:170
+msgid "Hover Speed"
+msgstr "شناور سرعت"
+
+#: settings_fields.php:171
+msgid "The speed in milliseconds of the page turn hover preview"
+msgstr "سرعت در میلی ثانیه از پیش نمایش شناور به نوبه خود صفحه"
+
+#: settings_fields.php:178
+msgid "Hover Treshold"
+msgstr "آستانه شناور"
+
+#: settings_fields.php:179
+msgid "The percentage used with manual page dragging"
+msgstr "درصد استفاده با کتابچه راهنمای صفحه کشیدن"
+
+#: settings_fields.php:186
+msgid "Hover Click"
+msgstr "شناور را کلیک کنید"
+
+#: settings_fields.php:187
+msgid ""
+"Enables a \"click\" on the page turn hover preview, when using manual page "
+"turning, to begin the page turn"
+msgstr ""
+"را قادر می سازد \"کلیک کنید\" بر روی پیش نمایش شناور صفحه به نوبه خود، در "
+"هنگام استفاده از دستی صفحه عطف، برای شروع به نوبه خود صفحه"
+
+#: settings_fields.php:194
+msgid "Overlays"
+msgstr "پوشش"
+
+#: settings_fields.php:195
+msgid ""
+"Enables navigation using a page sized overlay. When enabled page content, "
+"like links, will not be clickable. If manual option is enabled, overlays are "
+"removed"
+msgstr ""
+"ناوبری با استفاده از یک صفحه پوشش اندازه فعال می کند. هنگامی که فعال محتوای "
+"صفحه، مانند لینک ها، نخواهد بود قابل کلیک. اگر گزینه کتابچه راهنمای کاربر "
+"فعال باشد، پوشش برداشته می شود"
+
+#: settings_fields.php:203
+msgid "Adds tabs along the top of the book"
+msgstr "اضافه می کند زبانه در بالای کتاب"
+
+#: settings_fields.php:210
+msgid "Tab Width"
+msgstr "تب عرض"
+
+#: settings_fields.php:211
+msgid "Set the width of each tab. Can be a number or CSS string value"
+msgstr "تنظیم عرض هر برگه. می تواند یک عدد یا CSS مقدار رشته"
+
+#: settings_fields.php:218
+msgid "Tab Height"
+msgstr "ارتفاع برگه"
+
+#: settings_fields.php:219
+msgid "Set the height of each tab. Can be a number or CSS string value"
+msgstr "تنظیم ارتفاع هر برگه. می تواند یک عدد یا CSS مقدار رشته"
+
+#: settings_fields.php:226
+msgid "Next Text"
+msgstr "متن بعدی"
+
+#: settings_fields.php:227
+msgid "Set the inline text for all \"next\" controls (tabs, arrows, etc.)"
+msgstr "تنظیم متن درون خطی برای همه \"بعدی\" کنترل (زبانه ها، فلش، و غیره)"
+
+#: settings_fields.php:234
+msgid "Previous Text"
+msgstr "متن قبلی"
+
+#: settings_fields.php:235
+msgid "Set the inline text for all \"previous\" controls (tabs, arrows, etc.)"
+msgstr "تنظیم متن درون خطی برای همه کنترل های \"قبلی\" (زبانه ها، فلش، و غیره)"
+
+#: settings_fields.php:242
+msgid "Next Title"
+msgstr "عنوان بعدی"
+
+#: settings_fields.php:243
+msgid ""
+"Set the text for the title attributes of all \"next\" controls (tabs, "
+"arrows, etc.)"
+msgstr ""
+"تنظیم متن برای ویژگی عنوان از همه \"بعدی\" کنترل (زبانه ها، فلش، و غیره)"
+
+#: settings_fields.php:250
+msgid "Previous Title"
+msgstr "عنوان قبلی"
+
+#: settings_fields.php:251
+msgid ""
+"Set text for title attributes of all \"previous\" controls (tabs, arrows, "
+"etc.)"
+msgstr ""
+"تنظیم متن برای صفات عنوان از همه کنترل \"قبلی\" (زبانه ها، فلش، و غیره)"
+
+#: settings_fields.php:259
+msgid "Check to display arrows for navigation"
+msgstr "را جهت نمایش فلش برای ناوبری"
+
+#: settings_fields.php:266
+msgid "Auto Hide Arrows"
+msgstr "مخفی کردن خودکار فلش"
+
+#: settings_fields.php:267
+msgid "Auto hide the arrows when the controls are not hovered"
+msgstr "مخفی کردن خودکار فلش زمانی که کنترل ها ماند نه"
+
+#: settings_fields.php:274
+msgid "Cursor"
+msgstr "مکان نما"
+
+#: settings_fields.php:275
+msgid ""
+"The CSS cursor used for all controls (tabs, arrows, etc.). Accepts any CSS "
+"Cursor"
+msgstr ""
+"مکان نما CSS مورد استفاده برای تمام کنترل (زبانه ها، فلش، و غیره). قبول هر "
+"مکان نما CSS"
+
+#: settings_fields.php:282
+msgid "Hash"
+msgstr "مخلوط"
+
+#: settings_fields.php:283
+msgid "Enables navigation using a hash string (e.g. \"#/page/1\")"
+msgstr ""
+"ناوبری با استفاده از یک رشته هش (مانند \"# / صفحه / 1\") را قادر می سازد"
+
+#: settings_fields.php:290
+msgid "Hash Title Text"
+msgstr "هش عنوان متن"
+
+#: settings_fields.php:291
+msgid "Text which forms the hash page title (e.g. \"Book - Page 1\")"
+msgstr "متن که عنوان صفحه هش اشکال (به عنوان مثال \"کتاب - صفحه 1\")"
+
+#: settings_fields.php:299
+msgid "Check to enable page flipping by keyboard arrow keys"
+msgstr "برای فعال کوه در می رم صفحه توسط صفحه کلید از کلید های arrow"
+
+#: settings_fields.php:306 settings_fields.php:312
+msgid "Auto Play"
+msgstr "بازی خودکار"
+
+#: settings_fields.php:313
+msgid "Check to enable auto flipping pages"
+msgstr "برای فعال صفحات خودکار کوه در می رم"
+
+#: settings_fields.php:320
+msgid "Auto Play Delay"
+msgstr "خودرو بازی تاخیر"
+
+#: settings_fields.php:321
+msgid "The time in milliseconds between each automatic page flip transition"
+msgstr "ساعت در میلی ثانیه بین هر انتقال تلنگر صفحه به صورت خودکار"
+
+#: settings_fields.php:328 settings_fields.php:334
+msgid "Zoom"
+msgstr "بزرگنمایی"
+
+#: settings_fields.php:335
+msgid "Enable Zoom on hover"
+msgstr "فعال کردن زوم بر روی شناور"
+
+#: settings_fields.php:342
+msgid "Zoom Depth"
+msgstr "عمق زوم"
+
+#: settings_fields.php:343
+msgid "Provide zoom depth, 1 for 100%, 2 for 200% etc"
+msgstr "ارائه عمق زوم، 1 برای 100٪، 2٪ و برای 200"
+
+#: settings_fields.php:351 settings_fields.php:357
+msgid "Shadows"
+msgstr "سایه ها"
+
+#: settings_fields.php:358
+msgid "Display shadows on pages during animations"
+msgstr "نمایش سایه ها در صفحات در طول انیمیشن"
+
+#: settings_fields.php:366
+msgid "Shadow Top Forward Width"
+msgstr "سایه بالا جلو عرض"
+
+#: settings_fields.php:367
+msgid ""
+"The width of the top forward shadow. Only change if you change the shadow "
+"images"
+msgstr "عرض سایه بالا رو به جلو. تنها تغییر اگر شما تصاویر سایه را تغییر دهید"
+
+#: settings_fields.php:375
+msgid "Shadow Top Back Width"
+msgstr "سایه بالا برگشت عرض"
+
+#: settings_fields.php:376
+msgid ""
+"The width of the top back animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"عرض بالا تماس سایه انیمیشن. تنها تغییر اگر شما تصاویر سایه را تغییر دهید"
+
+#: settings_fields.php:384
+msgid "Shadow Bottom Width"
+msgstr "سایه پایین عرض"
+
+#: settings_fields.php:385
+msgid ""
+"The width of the bottom animation shadow. Only change if you change the "
+"shadow images"
+msgstr "عرض سایه انیمیشن پایین. تنها تغییر اگر شما تصاویر سایه را تغییر دهید"
+
+#: settings_fields.php:393
+msgid "Toolbar"
+msgstr "نوار ابزار"
+
+#: settings_fields.php:399
+msgid "Bottom Toolbar"
+msgstr "نوار ابزار پایین"
+
+#: settings_fields.php:400
+msgid "It will display bottom toolbar for navigation"
+msgstr "آن را در نوار ابزار پایین برای ناوبری نمایش"
+
+#: settings_fields.php:408
+msgid "Toolbar Background Color"
+msgstr "نوار ابزار رنگ پس زمینه"
+
+#: settings_fields.php:409
+msgid "Choose toolbar background color"
+msgstr "انتخاب رنگ پس زمینه نوار ابزار"
+
+#: settings_fields.php:417
+msgid "Toolbar Text Color"
+msgstr "نوار ابزار رنگ متن"
+
+#: settings_fields.php:418
+msgid "Choose toolbar text color"
+msgstr "انتخاب رنگ متن نوار ابزار"
+
+#: settings_fields.php:426
+msgid "Enable Popup"
+msgstr "فعال کردن پنجره"
+
+#: settings_fields.php:427
+msgid "A popup button will appear to open pages in popup"
+msgstr "یک دکمه پنجره ظاهر خواهد شد برای باز کردن صفحات در پنجره"
+
+#: settings_fields.php:435
+msgid "Book Front Title"
+msgstr "عنوان کتاب جبهه"
+
+#: settings_fields.php:436
+msgid "Determines title of blank starting page"
+msgstr "تعیین عنوان صفحه شروع خالی"
+
+#: settings_fields.php:444
+msgid "Book Front Chapter"
+msgstr "کتاب فصل جبهه"
+
+#: settings_fields.php:445
+msgid "Determines chapter name of blank starting page"
+msgstr "تعیین نام فصل از صفحه شروع خالی"
+
+#: settings_fields.php:453
+msgid "Book Back Title"
+msgstr "عنوان کتاب برگشت"
+
+#: settings_fields.php:454
+msgid "Determines title of blank ending page"
+msgstr "تعیین عنوان صفحه پایان خالی"
+
+#: settings_fields.php:462
+msgid "Book Back Chapter"
+msgstr "کتاب برگشت فصل"
+
+#: settings_fields.php:463
+msgid "Determines chapter name of blank ending page"
+msgstr "تعیین نام فصل از صفحه پایان خالی"

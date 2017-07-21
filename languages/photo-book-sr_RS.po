@@ -1,0 +1,681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: sr_RS\n"
+
+#: class.main.php:33 class.main.php:44
+msgid "Photo Books"
+msgstr "photo Боокс"
+
+#: class.main.php:34 plugin.class.php:76 plugin.class.php:164
+msgid "Photo Book"
+msgstr "фото књига"
+
+#: class.main.php:36 plugin.class.php:156 plugin.class.php:239
+msgid "Add New Book"
+msgstr "Додај нову књигу"
+
+#: class.main.php:37
+msgid "Edit Book"
+msgstr "едит књига"
+
+#: class.main.php:38
+msgid "New Book"
+msgstr "Нова књига"
+
+#: class.main.php:39
+msgid "View Photo Book"
+msgstr "Види Фото књига"
+
+#: class.main.php:40
+msgid "Search Books"
+msgstr "Сеарцх Боокс"
+
+#: class.main.php:41
+msgid "No Photo Books found"
+msgstr "Но Пхото Боокс фоунд"
+
+#: class.main.php:42
+msgid "No Photo Books found in Trash"
+msgstr "Но пхото књига пронађено у отпаду"
+
+#: class.main.php:43
+msgid "Parent Book:"
+msgstr "Родитељ књига:"
+
+#: class.main.php:85
+msgid "Images"
+msgstr "slike"
+
+#: class.main.php:87
+msgid "Settings"
+msgstr "Подешавања"
+
+#: class.main.php:89
+msgid "Help and Support"
+msgstr "Помоћ и подршка"
+
+#: class.main.php:95
+msgid "Use following shortcode in text section of editor."
+msgstr "Користити следећу СХОРТЦОДЕ у текстуалном делу уредника."
+
+#: class.main.php:105
+msgid "Having trouble? Book is not working properly?"
+msgstr "Имаш потешкоћа? Књига се не ради исправно?"
+
+#: class.main.php:106
+msgid "How to use"
+msgstr "Како се користи"
+
+#: class.main.php:107
+msgid "contact us for help"
+msgstr "контактирајте нас за помоћ"
+
+#: class.main.php:111
+msgid "Why Upgrade to Pro?"
+msgstr "Зашто Упграде то Про?"
+
+#: class.main.php:113
+msgid ""
+"In pro version you will be able to add page title and chapter title with "
+"each page."
+msgstr ""
+"У про верзији ћете моћи да додате наслов странице и назив поглавља са сваке "
+"стране."
+
+#: class.main.php:114
+msgid "By upgrading to pro, your existing books will remain saved."
+msgstr "Надоградњом на професионалац, постојећи књиге ће остати сачуван."
+
+#: class.main.php:117
+msgid "Unlock Pro Features"
+msgstr "Унлоцк Про Феатурес"
+
+#: class.main.php:120
+msgid "Visual Composer Addon"
+msgstr "Визуелна Композитор Лите"
+
+#: class.main.php:122
+msgid "Photo Book is now available as visual composer extension"
+msgstr "Фотографија Књига је сада доступан као визуелни продужетак композитор"
+
+#: class.main.php:123
+msgid "Get Here"
+msgstr "Доспео овде"
+
+#: class.main.php:126
+msgid "Real 3D Flip Book"
+msgstr "Реал 3Д Флип Боок"
+
+#: class.main.php:128
+msgid "We have developed a new plugin with real 3d effect and touch support"
+msgstr "Развили смо нови додатак са Реал 3Д ефектом и тоуцх подршку"
+
+#: class.main.php:129
+msgid "Download FREE"
+msgstr "Довнлоад Фрее"
+
+#: class.main.php:163
+msgid "Looking for Real 3D Book?"
+msgstr "У потрази за Реал 3Д књигу?"
+
+#: class.main.php:166
+msgid "Download Real 3D Flip Book"
+msgstr "Довнлоад Реал 3Д Флип Боок"
+
+#: class.main.php:291 class.main.php:312 class.main.php:343 class.main.php:360
+msgid "Default"
+msgstr "Уобичајено"
+
+#: class.main.php:298 class.main.php:319 class.main.php:367
+msgid "Pro Feature"
+msgstr "про функција"
+
+#: class.main.php:357 plugin.class.php:111 plugin.class.php:117
+#: plugin.class.php:124 plugin.class.php:130 plugin.class.php:132
+#: plugin.class.php:197 plugin.class.php:204 plugin.class.php:210
+#: plugin.class.php:212 plugin.class.php:224
+msgid "Enable"
+msgstr "омогућити"
+
+#: plugin.class.php:62
+msgid "Photo Book Gallery Settings"
+msgstr "Фото галерија књига Подешавања"
+
+#: plugin.class.php:65
+msgid "Recommended"
+msgstr "Рецоммендед"
+
+#: plugin.class.php:65
+msgid "Please use new system to create Photo Books"
+msgstr "Молимо Вас да користите нови систем за креирање Пхото Боокс"
+
+#: plugin.class.php:66
+msgid "HERE"
+msgstr "ОВДЕ"
+
+#: plugin.class.php:69
+msgid "Dismiss this notice"
+msgstr "Одбацити ово обавештење"
+
+#: plugin.class.php:78 plugin.class.php:166 settings_fields.php:6
+msgid "General Settings"
+msgstr "Генерал Сеттингс"
+
+#: plugin.class.php:81 plugin.class.php:169 settings_fields.php:12
+msgid "Book Width"
+msgstr "књига Ширина"
+
+#: plugin.class.php:84 plugin.class.php:88 plugin.class.php:171
+#: plugin.class.php:174
+msgid "Leave Blank for Responsive"
+msgstr "Остави празно за Одговарајући"
+
+#: plugin.class.php:86 plugin.class.php:172 settings_fields.php:20
+msgid "Book Height"
+msgstr "knjiga Висина"
+
+#: plugin.class.php:91 plugin.class.php:177 settings_fields.php:28
+msgid "Speed"
+msgstr "Брзина"
+
+#: plugin.class.php:93 plugin.class.php:179 settings_fields.php:48
+msgid "Starting Page"
+msgstr "Стартинг Страница"
+
+#: plugin.class.php:97 plugin.class.php:183 settings_fields.php:36
+msgid "Reading Direction"
+msgstr "Реадинг Смер"
+
+#: plugin.class.php:100 plugin.class.php:186 settings_fields.php:38
+msgid "Right to Left"
+msgstr "Десна на лево"
+
+#: plugin.class.php:101 plugin.class.php:187 settings_fields.php:39
+msgid "Left to Right"
+msgstr "С лева надесно"
+
+#: plugin.class.php:104 plugin.class.php:190 settings_fields.php:116
+msgid "Page Padding"
+msgstr "паге Постава"
+
+#: plugin.class.php:108 plugin.class.php:194 settings_fields.php:124
+msgid "Page Numbers"
+msgstr "Паге бројеви"
+
+#: plugin.class.php:109 plugin.class.php:136 plugin.class.php:138
+#: plugin.class.php:195 plugin.class.php:216 plugin.class.php:218
+msgid "Show"
+msgstr "шоу"
+
+#: plugin.class.php:110 plugin.class.php:196 settings_fields.php:86
+msgid "Closed Book"
+msgstr "Затворена књига"
+
+#: plugin.class.php:114 plugin.class.php:221
+msgid "Book Title (for your reference)"
+msgstr "Назив књиге (за референцу)"
+
+#: plugin.class.php:116 plugin.class.php:223
+msgid "Zoom on Hover"
+msgstr "Зоом на Ховер"
+
+#: plugin.class.php:120 plugin.class.php:200 settings_fields.php:140
+msgid "Controls"
+msgstr "kontrole"
+
+#: plugin.class.php:123 plugin.class.php:203
+msgid "AutoPlay"
+msgstr "Аутоматско покретање"
+
+#: plugin.class.php:125 plugin.class.php:205
+msgid "AutoPlay delay for each page (in ms)"
+msgstr "Аутоматска репродукција кашњење за сваку страницу (у мс)"
+
+#: plugin.class.php:129
+msgid "Turn Page by clicking Image"
+msgstr "Турн страницу кликом на слику"
+
+#: plugin.class.php:131 plugin.class.php:211 settings_fields.php:298
+msgid "Keyboard Controls"
+msgstr "Контроле тастатуре"
+
+#: plugin.class.php:135 plugin.class.php:215 settings_fields.php:202
+msgid "Navigation Tabs"
+msgstr "Картице за навигацију"
+
+#: plugin.class.php:137 plugin.class.php:217 settings_fields.php:258
+msgid "Arrows"
+msgstr "стрелице"
+
+#: plugin.class.php:155 plugin.class.php:238
+msgid "Delete"
+msgstr "избрисати"
+
+#: plugin.class.php:157 plugin.class.php:240 render_box_contents.php:4
+msgid "Upload Images"
+msgstr "Уплоад слике"
+
+#: plugin.class.php:159 plugin.class.php:242
+msgid "Shortcode"
+msgstr "Кратак код"
+
+#: plugin.class.php:209
+msgid "Turn Page by clicking anywhere"
+msgstr "Турн страницу кликом било где"
+
+#: plugin.class.php:249
+msgid "Save Changes"
+msgstr "Сачувај измене"
+
+#: plugin.class.php:251
+msgid "Changes Saved"
+msgstr "promene су сачуване"
+
+#: settings_fields.php:13
+msgid "Provide width for closed book in pixels, leave blank for responsive"
+msgstr "Обезбеди ширину за затворене књиге у пикселима, остави празно за одзив"
+
+#: settings_fields.php:21
+msgid "Provide height for book in pixels, leave blank for responsive"
+msgstr "Обезбеди висину за књигу у пикселима, остави празно за одзив"
+
+#: settings_fields.php:29
+msgid "Provide speed of page turn in milliseconds"
+msgstr "Обезбеди брзину страни заокрета у милисекунди"
+
+#: settings_fields.php:41
+msgid "Choose reading direction for pages"
+msgstr "Изаберите читање правац за странице"
+
+#: settings_fields.php:49
+msgid "Provide starting page for the book"
+msgstr "Обезбедити почетну страну за књигу"
+
+#: settings_fields.php:56
+msgid "Easing"
+msgstr "ublažavanje"
+
+#: settings_fields.php:57
+msgid "Easing method for the complete page transition"
+msgstr "Ублажавање метод за комплетну страну транзиције"
+
+#: settings_fields.php:64
+msgid "Ease In"
+msgstr "еасе У"
+
+#: settings_fields.php:65
+msgid "Easing method for the first half of the page transition"
+msgstr "Ублажавање методе за прву половину странице транзиције"
+
+#: settings_fields.php:72
+msgid "Ease Out"
+msgstr "Еасе Оут"
+
+#: settings_fields.php:73
+msgid "Easing method for the second half of the page transition"
+msgstr "Ублажавање метода за другу половину странице транзиције"
+
+#: settings_fields.php:80
+msgid "Closed Book and Covers"
+msgstr "Затворена књига и прекривачи"
+
+#: settings_fields.php:87
+msgid "Enable it to give the book the appearance of being closed"
+msgstr "Омогућити јој да дају књигу изглед да буде затворен"
+
+#: settings_fields.php:94
+msgid "Covers"
+msgstr "цоверс"
+
+#: settings_fields.php:95
+msgid "Makes the first and last pages into covers by hiding page numbers"
+msgstr "Чини прве и последње странице у корицама од скривања бројеве страница"
+
+#: settings_fields.php:102
+msgid "Auto Center"
+msgstr "ауто центар"
+
+#: settings_fields.php:103
+msgid "Makes the book position in the center of its container when closed"
+msgstr "Чини положај књиге у центру свог контејнера када је затворен"
+
+#: settings_fields.php:110
+msgid "Pages"
+msgstr "Странице"
+
+#: settings_fields.php:117
+msgid "Provide inner space for pages in pixels"
+msgstr "Обезбеди унутрашњи простор за странице у пикселима"
+
+#: settings_fields.php:125
+msgid "Check to display page numbers"
+msgstr "Проверите да прикаже бројеве страница"
+
+#: settings_fields.php:132
+msgid "Page Border"
+msgstr "паге бордер"
+
+#: settings_fields.php:133
+msgid "The size of the border around each page"
+msgstr "Величина границе око сваке странице"
+
+#: settings_fields.php:146
+msgid "Manual Control"
+msgstr "Ручна контрола"
+
+#: settings_fields.php:147
+msgid "Enables manual page turning using click and drag"
+msgstr "Омогућава ручно страну окретање користећи кликните и вуците"
+
+#: settings_fields.php:154
+msgid "Hovers"
+msgstr "варира"
+
+#: settings_fields.php:155
+msgid "Shows a small preview of page turn on hover"
+msgstr "Показује мали преглед странице турн он ховер"
+
+#: settings_fields.php:162
+msgid "Hover Width"
+msgstr "ховер Ширина"
+
+#: settings_fields.php:163
+msgid "The width of the page turn hover preview in pixels"
+msgstr "Ширина странице скретања ховер преглед у пикселима"
+
+#: settings_fields.php:170
+msgid "Hover Speed"
+msgstr "ховер Брзина"
+
+#: settings_fields.php:171
+msgid "The speed in milliseconds of the page turn hover preview"
+msgstr "Брзина у милисекунди на страна турн ховер преглед"
+
+#: settings_fields.php:178
+msgid "Hover Treshold"
+msgstr "ховер Праг"
+
+#: settings_fields.php:179
+msgid "The percentage used with manual page dragging"
+msgstr "Проценат се користи са ручним страница навлачења"
+
+#: settings_fields.php:186
+msgid "Hover Click"
+msgstr "ховер Кликните"
+
+#: settings_fields.php:187
+msgid ""
+"Enables a \"click\" on the page turn hover preview, when using manual page "
+"turning, to begin the page turn"
+msgstr ""
+"Омогућава \"клик\" на страна турн ховер преглед, када се користи за употребу "
+"Паге окретање, да почне скретање страница"
+
+#: settings_fields.php:194
+msgid "Overlays"
+msgstr "прекривачи"
+
+#: settings_fields.php:195
+msgid ""
+"Enables navigation using a page sized overlay. When enabled page content, "
+"like links, will not be clickable. If manual option is enabled, overlays are "
+"removed"
+msgstr ""
+"Омогућава навигацију помоћу странице величине преклапања. Када је омогућено "
+"страна садржаја, као линкова, неће бити кликне. Ако је омогућена опција "
+"аутоматски, прекривачи су уклоњени"
+
+#: settings_fields.php:203
+msgid "Adds tabs along the top of the book"
+msgstr "Додаје картице дуж врха књиге"
+
+#: settings_fields.php:210
+msgid "Tab Width"
+msgstr "таб Ширина"
+
+#: settings_fields.php:211
+msgid "Set the width of each tab. Can be a number or CSS string value"
+msgstr "Подесите ширину свакој картици. Може бити број или ЦСС низ вредност"
+
+#: settings_fields.php:218
+msgid "Tab Height"
+msgstr "таб Висина"
+
+#: settings_fields.php:219
+msgid "Set the height of each tab. Can be a number or CSS string value"
+msgstr "Подесите висину свакој картици. Може бити број или ЦСС низ вредност"
+
+#: settings_fields.php:226
+msgid "Next Text"
+msgstr "Следећа Текст"
+
+#: settings_fields.php:227
+msgid "Set the inline text for all \"next\" controls (tabs, arrows, etc.)"
+msgstr "Поставили текст инлине за све \"Нект\" контрола (Табс, стрелице, итд)"
+
+#: settings_fields.php:234
+msgid "Previous Text"
+msgstr "Претходна Текст"
+
+#: settings_fields.php:235
+msgid "Set the inline text for all \"previous\" controls (tabs, arrows, etc.)"
+msgstr ""
+"Поставили текст инлине за све \"претходне\" контрола (табс, стрелице, итд)"
+
+#: settings_fields.php:242
+msgid "Next Title"
+msgstr "Даље Наслов"
+
+#: settings_fields.php:243
+msgid ""
+"Set the text for the title attributes of all \"next\" controls (tabs, "
+"arrows, etc.)"
+msgstr ""
+"Поставили текст атрибута Наслов све \"Нект\" контрола (картице, стрелице, "
+"итд)"
+
+#: settings_fields.php:250
+msgid "Previous Title"
+msgstr "Претходна Наслов"
+
+#: settings_fields.php:251
+msgid ""
+"Set text for title attributes of all \"previous\" controls (tabs, arrows, "
+"etc.)"
+msgstr ""
+"Сет текст за наслов атрибута свих \"Претходно\" контроле (гитари, стрелице, "
+"итд)"
+
+#: settings_fields.php:259
+msgid "Check to display arrows for navigation"
+msgstr "Проверите да прикаже стрелице за навигацију"
+
+#: settings_fields.php:266
+msgid "Auto Hide Arrows"
+msgstr "Ауто Хиде стрелице"
+
+#: settings_fields.php:267
+msgid "Auto hide the arrows when the controls are not hovered"
+msgstr "Ауто Хиде стрелице када се контроле не лебдела"
+
+#: settings_fields.php:274
+msgid "Cursor"
+msgstr "цурсор"
+
+#: settings_fields.php:275
+msgid ""
+"The CSS cursor used for all controls (tabs, arrows, etc.). Accepts any CSS "
+"Cursor"
+msgstr ""
+"ЦСС курсор се користи за све команде (картице, стрелице, итд). Прихвата било "
+"ЦСС Цурсор"
+
+#: settings_fields.php:282
+msgid "Hash"
+msgstr "хасх"
+
+#: settings_fields.php:283
+msgid "Enables navigation using a hash string (e.g. \"#/page/1\")"
+msgstr "Омогућава навигацију помоћу тараба стринг (нпр \"# / паге / 1\")"
+
+#: settings_fields.php:290
+msgid "Hash Title Text"
+msgstr "Хасх Наслов Текст"
+
+#: settings_fields.php:291
+msgid "Text which forms the hash page title (e.g. \"Book - Page 1\")"
+msgstr ""
+"Текст који представља наслов хасх страна (на пример \"књига - Страница 1\")"
+
+#: settings_fields.php:299
+msgid "Check to enable page flipping by keyboard arrow keys"
+msgstr "Проверите да омогући страница окретањем по тастатури стрелицама"
+
+#: settings_fields.php:306 settings_fields.php:312
+msgid "Auto Play"
+msgstr "Аутоматско покретање"
+
+#: settings_fields.php:313
+msgid "Check to enable auto flipping pages"
+msgstr "Проверите да омогући аутоматско окретањем страница"
+
+#: settings_fields.php:320
+msgid "Auto Play Delay"
+msgstr "Ауто Плаи Делаи"
+
+#: settings_fields.php:321
+msgid "The time in milliseconds between each automatic page flip transition"
+msgstr "Време у милисекундама између сваког аутоматски паге флип транзицији"
+
+#: settings_fields.php:328 settings_fields.php:334
+msgid "Zoom"
+msgstr "зум"
+
+#: settings_fields.php:335
+msgid "Enable Zoom on hover"
+msgstr "Омогућите Зоом на ховер"
+
+#: settings_fields.php:342
+msgid "Zoom Depth"
+msgstr "зоом Дубина"
+
+#: settings_fields.php:343
+msgid "Provide zoom depth, 1 for 100%, 2 for 200% etc"
+msgstr "Обезбеди дубину зоом, 1 за 100%, 2 за 200%, итд"
+
+#: settings_fields.php:351 settings_fields.php:357
+msgid "Shadows"
+msgstr "сенке"
+
+#: settings_fields.php:358
+msgid "Display shadows on pages during animations"
+msgstr "Дисплаи сенке на странама током анимације"
+
+#: settings_fields.php:366
+msgid "Shadow Top Forward Width"
+msgstr "Схадов Врх Напред Ширина"
+
+#: settings_fields.php:367
+msgid ""
+"The width of the top forward shadow. Only change if you change the shadow "
+"images"
+msgstr "Ширина горњем напред сенке. Само променити ако промените схадов слике"
+
+#: settings_fields.php:375
+msgid "Shadow Top Back Width"
+msgstr "Схадов Врх Повратак Ширина"
+
+#: settings_fields.php:376
+msgid ""
+"The width of the top back animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"Ширина топ натраг анимације сенку. Само променити ако промените схадов слике"
+
+#: settings_fields.php:384
+msgid "Shadow Bottom Width"
+msgstr "Схадов Боттом Ширина"
+
+#: settings_fields.php:385
+msgid ""
+"The width of the bottom animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"Ширина доњег анимације сенке. Само променити ако промените схадов слике"
+
+#: settings_fields.php:393
+msgid "Toolbar"
+msgstr "тоолбар"
+
+#: settings_fields.php:399
+msgid "Bottom Toolbar"
+msgstr "боттом Тоолбар"
+
+#: settings_fields.php:400
+msgid "It will display bottom toolbar for navigation"
+msgstr "То ће приказати доњи тоолбар за навигацију"
+
+#: settings_fields.php:408
+msgid "Toolbar Background Color"
+msgstr "Тоолбар Боја позадине"
+
+#: settings_fields.php:409
+msgid "Choose toolbar background color"
+msgstr "Изаберите боју позадине тоолбар"
+
+#: settings_fields.php:417
+msgid "Toolbar Text Color"
+msgstr "Тоолбар Боја текста"
+
+#: settings_fields.php:418
+msgid "Choose toolbar text color"
+msgstr "Изаберите боју текста тоолбар"
+
+#: settings_fields.php:426
+msgid "Enable Popup"
+msgstr "Омогући Попуп"
+
+#: settings_fields.php:427
+msgid "A popup button will appear to open pages in popup"
+msgstr "Дугме попуп ће се појавити за отварање странице у новом прозору"
+
+#: settings_fields.php:435
+msgid "Book Front Title"
+msgstr "Боок Предња Наслов"
+
+#: settings_fields.php:436
+msgid "Determines title of blank starting page"
+msgstr "Одређује наслов бланк почетну страницу"
+
+#: settings_fields.php:444
+msgid "Book Front Chapter"
+msgstr "Боок Предња глава"
+
+#: settings_fields.php:445
+msgid "Determines chapter name of blank starting page"
+msgstr "Одређује поглавље назив бланк почетну страницу"
+
+#: settings_fields.php:453
+msgid "Book Back Title"
+msgstr "Књига Назад Наслов"
+
+#: settings_fields.php:454
+msgid "Determines title of blank ending page"
+msgstr "Одређује наслов бланк крајњој тачки странице"
+
+#: settings_fields.php:462
+msgid "Book Back Chapter"
+msgstr "Књигу глава"
+
+#: settings_fields.php:463
+msgid "Determines chapter name of blank ending page"
+msgstr "Одређује поглавље назив бланк крајњој тачки странице"

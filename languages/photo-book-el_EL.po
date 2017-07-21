@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: el\n"
+
+#: class.main.php:33 class.main.php:44
+msgid "Photo Books"
+msgstr "φωτογραφία Βιβλία"
+
+#: class.main.php:34 plugin.class.php:76 plugin.class.php:164
+msgid "Photo Book"
+msgstr "Photo Book"
+
+#: class.main.php:36 plugin.class.php:156 plugin.class.php:239
+msgid "Add New Book"
+msgstr "Προσθήκη νέου βιβλίου"
+
+#: class.main.php:37
+msgid "Edit Book"
+msgstr "Επεξεργασία βιβλίου"
+
+#: class.main.php:38
+msgid "New Book"
+msgstr "νέο βιβλίο"
+
+#: class.main.php:39
+msgid "View Photo Book"
+msgstr "Προβολή Φωτογραφία Βιβλίου"
+
+#: class.main.php:40
+msgid "Search Books"
+msgstr "Αναζήτηση Βιβλίων"
+
+#: class.main.php:41
+msgid "No Photo Books found"
+msgstr "Δεν Βιβλία Φωτογραφία βρέθηκαν"
+
+#: class.main.php:42
+msgid "No Photo Books found in Trash"
+msgstr "Δεν υπάρχει διαθέσιμη φωτογραφία Βιβλία που βρέθηκαν στο Trash"
+
+#: class.main.php:43
+msgid "Parent Book:"
+msgstr "Γονικό βιβλίο:"
+
+#: class.main.php:85
+msgid "Images"
+msgstr "εικόνες"
+
+#: class.main.php:87
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: class.main.php:89
+msgid "Help and Support"
+msgstr "Βοήθεια και υποστήριξη"
+
+#: class.main.php:95
+msgid "Use following shortcode in text section of editor."
+msgstr "Χρησιμοποιήστε παρακάτω Σύντομος στο τμήμα κειμένου του συντάκτη."
+
+#: class.main.php:105
+msgid "Having trouble? Book is not working properly?"
+msgstr "Αντιμετωπίζετε πρόβλημα; Το βιβλίο δεν λειτουργεί σωστά;"
+
+#: class.main.php:106
+msgid "How to use"
+msgstr "Πώς να χρησιμοποιήσετε"
+
+#: class.main.php:107
+msgid "contact us for help"
+msgstr "επικοινωνήστε μαζί μας για βοήθεια"
+
+#: class.main.php:111
+msgid "Why Upgrade to Pro?"
+msgstr "Γιατί Αναβάθμιση σε Pro;"
+
+#: class.main.php:113
+msgid ""
+"In pro version you will be able to add page title and chapter title with "
+"each page."
+msgstr ""
+"Στην έκδοση Pro θα είστε σε θέση να προσθέσετε τον τίτλο της σελίδας και ο "
+"τίτλος του κεφαλαίου σε κάθε σελίδα."
+
+#: class.main.php:114
+msgid "By upgrading to pro, your existing books will remain saved."
+msgstr ""
+"Με την αναβάθμιση σε pro, τα υπάρχοντα βιβλία σας θα παραμένουν "
+"αποθηκευμένες."
+
+#: class.main.php:117
+msgid "Unlock Pro Features"
+msgstr "Ξεκλειδώστε Pro Χαρακτηριστικά"
+
+#: class.main.php:120
+msgid "Visual Composer Addon"
+msgstr "Visual Composer Addon"
+
+#: class.main.php:122
+msgid "Photo Book is now available as visual composer extension"
+msgstr "Photo Book είναι τώρα διαθέσιμο ως οπτική επέκταση συνθέτης"
+
+#: class.main.php:123
+msgid "Get Here"
+msgstr "Έλα εδώ"
+
+#: class.main.php:126
+msgid "Real 3D Flip Book"
+msgstr "Real 3D Flip Book"
+
+#: class.main.php:128
+msgid "We have developed a new plugin with real 3d effect and touch support"
+msgstr ""
+"Έχουμε αναπτύξει ένα νέο πρόγραμμα με το πραγματικό 3D αποτέλεσμα και "
+"υποστήριξη αφής"
+
+#: class.main.php:129
+msgid "Download FREE"
+msgstr "Κατεβάστε ΔΩΡΕΑΝ"
+
+#: class.main.php:163
+msgid "Looking for Real 3D Book?"
+msgstr "Ψάχνετε για Real 3D βιβλίο;"
+
+#: class.main.php:166
+msgid "Download Real 3D Flip Book"
+msgstr "Κατεβάστε το Real 3D Flip Book"
+
+#: class.main.php:291 class.main.php:312 class.main.php:343 class.main.php:360
+msgid "Default"
+msgstr "Αθέτηση"
+
+#: class.main.php:298 class.main.php:319 class.main.php:367
+msgid "Pro Feature"
+msgstr "Pro Χαρακτηριστικό"
+
+#: class.main.php:357 plugin.class.php:111 plugin.class.php:117
+#: plugin.class.php:124 plugin.class.php:130 plugin.class.php:132
+#: plugin.class.php:197 plugin.class.php:204 plugin.class.php:210
+#: plugin.class.php:212 plugin.class.php:224
+msgid "Enable"
+msgstr "Καθιστώ ικανό"
+
+#: plugin.class.php:62
+msgid "Photo Book Gallery Settings"
+msgstr "Ρυθμίσεις Photo Book Gallery"
+
+#: plugin.class.php:65
+msgid "Recommended"
+msgstr "συνιστάται"
+
+#: plugin.class.php:65
+msgid "Please use new system to create Photo Books"
+msgstr ""
+"Παρακαλούμε χρησιμοποιήστε νέο σύστημα για να δημιουργήσετε Βιβλίων "
+"Φωτογραφία"
+
+#: plugin.class.php:66
+msgid "HERE"
+msgstr "ΕΔΏ"
+
+#: plugin.class.php:69
+msgid "Dismiss this notice"
+msgstr "Να απορρίψει αυτήν την ειδοποίηση"
+
+#: plugin.class.php:78 plugin.class.php:166 settings_fields.php:6
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: plugin.class.php:81 plugin.class.php:169 settings_fields.php:12
+msgid "Book Width"
+msgstr "βιβλίο Πλάτος"
+
+#: plugin.class.php:84 plugin.class.php:88 plugin.class.php:171
+#: plugin.class.php:174
+msgid "Leave Blank for Responsive"
+msgstr "Αφήστε κενό για Responsive"
+
+#: plugin.class.php:86 plugin.class.php:172 settings_fields.php:20
+msgid "Book Height"
+msgstr "Ύψος βιβλίο"
+
+#: plugin.class.php:91 plugin.class.php:177 settings_fields.php:28
+msgid "Speed"
+msgstr "Ταχύτητα"
+
+#: plugin.class.php:93 plugin.class.php:179 settings_fields.php:48
+msgid "Starting Page"
+msgstr "ξεκινώντας Σελίδα"
+
+#: plugin.class.php:97 plugin.class.php:183 settings_fields.php:36
+msgid "Reading Direction"
+msgstr "ανάγνωση Κατεύθυνση"
+
+#: plugin.class.php:100 plugin.class.php:186 settings_fields.php:38
+msgid "Right to Left"
+msgstr "Δεξιά προς αριστερά"
+
+#: plugin.class.php:101 plugin.class.php:187 settings_fields.php:39
+msgid "Left to Right"
+msgstr "Από αριστερά προς τα δεξιά"
+
+#: plugin.class.php:104 plugin.class.php:190 settings_fields.php:116
+msgid "Page Padding"
+msgstr "σελίδα Επένδυση"
+
+#: plugin.class.php:108 plugin.class.php:194 settings_fields.php:124
+msgid "Page Numbers"
+msgstr "Αριθμοί σελίδας"
+
+#: plugin.class.php:109 plugin.class.php:136 plugin.class.php:138
+#: plugin.class.php:195 plugin.class.php:216 plugin.class.php:218
+msgid "Show"
+msgstr "προβολή"
+
+#: plugin.class.php:110 plugin.class.php:196 settings_fields.php:86
+msgid "Closed Book"
+msgstr "κλειστό βιβλίο"
+
+#: plugin.class.php:114 plugin.class.php:221
+msgid "Book Title (for your reference)"
+msgstr "Τίτλος Βιβλίου (για την αναφορά σας)"
+
+#: plugin.class.php:116 plugin.class.php:223
+msgid "Zoom on Hover"
+msgstr "Zoom για Hover"
+
+#: plugin.class.php:120 plugin.class.php:200 settings_fields.php:140
+msgid "Controls"
+msgstr "έλεγχοι"
+
+#: plugin.class.php:123 plugin.class.php:203
+msgid "AutoPlay"
+msgstr "Αυτόματη αναπαραγωγή"
+
+#: plugin.class.php:125 plugin.class.php:205
+msgid "AutoPlay delay for each page (in ms)"
+msgstr "AutoPlay καθυστέρηση για κάθε σελίδα (σε ms)"
+
+#: plugin.class.php:129
+msgid "Turn Page by clicking Image"
+msgstr "Γυρίστε σελίδα κάνοντας κλικ Image"
+
+#: plugin.class.php:131 plugin.class.php:211 settings_fields.php:298
+msgid "Keyboard Controls"
+msgstr "Έλεγχοι πληκτρολογίου"
+
+#: plugin.class.php:135 plugin.class.php:215 settings_fields.php:202
+msgid "Navigation Tabs"
+msgstr "Καρτέλες πλοήγησης"
+
+#: plugin.class.php:137 plugin.class.php:217 settings_fields.php:258
+msgid "Arrows"
+msgstr "βέλη"
+
+#: plugin.class.php:155 plugin.class.php:238
+msgid "Delete"
+msgstr "Διαγράφω"
+
+#: plugin.class.php:157 plugin.class.php:240 render_box_contents.php:4
+msgid "Upload Images"
+msgstr "Ανεβάστε Εικόνες"
+
+#: plugin.class.php:159 plugin.class.php:242
+msgid "Shortcode"
+msgstr "Σύντομος κωδικός"
+
+#: plugin.class.php:209
+msgid "Turn Page by clicking anywhere"
+msgstr "Γυρίστε σελίδα κάνοντας κλικ οπουδήποτε"
+
+#: plugin.class.php:249
+msgid "Save Changes"
+msgstr "Αποθήκευσε τις αλλαγές"
+
+#: plugin.class.php:251
+msgid "Changes Saved"
+msgstr "αλλαγές Αποθηκευμένες"
+
+#: settings_fields.php:13
+msgid "Provide width for closed book in pixels, leave blank for responsive"
+msgstr ""
+"Παρέχετε πλάτος κλειστό βιβλίο σε pixels, αφήστε κενό για να ανταποκρίνεται"
+
+#: settings_fields.php:21
+msgid "Provide height for book in pixels, leave blank for responsive"
+msgstr ""
+"Παρέχετε ύψος για το βιβλίο σε pixels, αφήστε κενό για να ανταποκρίνεται"
+
+#: settings_fields.php:29
+msgid "Provide speed of page turn in milliseconds"
+msgstr "Παρέχει ταχύτητα της σελίδας στροφή σε χιλιοστά του δευτερολέπτου"
+
+#: settings_fields.php:41
+msgid "Choose reading direction for pages"
+msgstr "Επιλέξτε την ανάγνωση κατεύθυνση για τις σελίδες"
+
+#: settings_fields.php:49
+msgid "Provide starting page for the book"
+msgstr "Παρέχουν αρχική σελίδα για το βιβλίο"
+
+#: settings_fields.php:56
+msgid "Easing"
+msgstr "χαλάρωση"
+
+#: settings_fields.php:57
+msgid "Easing method for the complete page transition"
+msgstr "Ελάφρυνση μέθοδος για την πλήρη μετάβαση σελίδα"
+
+#: settings_fields.php:64
+msgid "Ease In"
+msgstr "ευκολία Σε"
+
+#: settings_fields.php:65
+msgid "Easing method for the first half of the page transition"
+msgstr "Ελάφρυνση μέθοδος για το πρώτο εξάμηνο της μετάβασης σελίδας"
+
+#: settings_fields.php:72
+msgid "Ease Out"
+msgstr "ευκολία Out"
+
+#: settings_fields.php:73
+msgid "Easing method for the second half of the page transition"
+msgstr "Ελάφρυνση μέθοδος για το δεύτερο ήμισυ της μεταβατικής σελίδας"
+
+#: settings_fields.php:80
+msgid "Closed Book and Covers"
+msgstr "Κλειστό βιβλίο και καλύμματα"
+
+#: settings_fields.php:87
+msgid "Enable it to give the book the appearance of being closed"
+msgstr "Μπορέσει να δώσει στο βιβλίο την εμφάνιση της να κλείσει"
+
+#: settings_fields.php:94
+msgid "Covers"
+msgstr "εξώφυλλα"
+
+#: settings_fields.php:95
+msgid "Makes the first and last pages into covers by hiding page numbers"
+msgstr ""
+"Κάνει την πρώτη και την τελευταία σελίδα σε εξώφυλλα κρύβοντας αριθμούς "
+"σελίδας"
+
+#: settings_fields.php:102
+msgid "Auto Center"
+msgstr "Auto Κέντρο"
+
+#: settings_fields.php:103
+msgid "Makes the book position in the center of its container when closed"
+msgstr ""
+"Κάνει τη θέση του βιβλίου στο κέντρο του δοχείου του όταν είναι κλειστό"
+
+#: settings_fields.php:110
+msgid "Pages"
+msgstr "σελίδες"
+
+#: settings_fields.php:117
+msgid "Provide inner space for pages in pixels"
+msgstr "Παρέχουν εσωτερικό χώρο για σελίδες σε pixels"
+
+#: settings_fields.php:125
+msgid "Check to display page numbers"
+msgstr "Ελέγξτε για να εμφανίσετε τους αριθμούς σελίδας"
+
+#: settings_fields.php:132
+msgid "Page Border"
+msgstr "Page Border"
+
+#: settings_fields.php:133
+msgid "The size of the border around each page"
+msgstr "Το μέγεθος της περίγραμμα γύρω από κάθε σελίδα"
+
+#: settings_fields.php:146
+msgid "Manual Control"
+msgstr "εγχειρίδιο Ελέγχου"
+
+#: settings_fields.php:147
+msgid "Enables manual page turning using click and drag"
+msgstr "Επιτρέπει τη χειροκίνητη σελίδα καμπής χρησιμοποιώντας κλικ και σύρετε"
+
+#: settings_fields.php:154
+msgid "Hovers"
+msgstr "αιωρείται"
+
+#: settings_fields.php:155
+msgid "Shows a small preview of page turn on hover"
+msgstr "Δείχνει μια μικρή προεπισκόπηση της σελίδας στροφή σε αιώρηση"
+
+#: settings_fields.php:162
+msgid "Hover Width"
+msgstr "Hover Πλάτος"
+
+#: settings_fields.php:163
+msgid "The width of the page turn hover preview in pixels"
+msgstr "Το πλάτος της σελίδας στροφή προεπισκόπησης αιωρείται σε pixels"
+
+#: settings_fields.php:170
+msgid "Hover Speed"
+msgstr "Hover Ταχύτητα"
+
+#: settings_fields.php:171
+msgid "The speed in milliseconds of the page turn hover preview"
+msgstr ""
+"Η ταχύτητα σε χιλιοστά του δευτερολέπτου της προεπισκόπησης αιωρείται σελίδα "
+"στροφή"
+
+#: settings_fields.php:178
+msgid "Hover Treshold"
+msgstr "Hover Όριο"
+
+#: settings_fields.php:179
+msgid "The percentage used with manual page dragging"
+msgstr "Το ποσοστό που χρησιμοποιείται με τη σελίδα manual σύρσιμο"
+
+#: settings_fields.php:186
+msgid "Hover Click"
+msgstr "Hover Κάντε κλικ"
+
+#: settings_fields.php:187
+msgid ""
+"Enables a \"click\" on the page turn hover preview, when using manual page "
+"turning, to begin the page turn"
+msgstr ""
+"Επιτρέπει ένα \"κλικ\" στην προεπισκόπηση Hover σελίδα τη σειρά του, όταν "
+"χρησιμοποιεί σελίδα manual καμπής, για να αρχίσει η στροφή της σελίδας"
+
+#: settings_fields.php:194
+msgid "Overlays"
+msgstr "επικαλύψεις"
+
+#: settings_fields.php:195
+msgid ""
+"Enables navigation using a page sized overlay. When enabled page content, "
+"like links, will not be clickable. If manual option is enabled, overlays are "
+"removed"
+msgstr ""
+"Επιτρέπει την πλοήγηση χρησιμοποιώντας μια σελίδα μεγέθους επικάλυψης. Όταν "
+"ενεργοποιηθεί το περιεχόμενο της σελίδας, όπως συνδέσεις, δεν θα είναι "
+"clickable. Εάν είναι ενεργοποιημένη η χειροκίνητη επιλογή, οι επικαλύψεις "
+"αφαιρούνται"
+
+#: settings_fields.php:203
+msgid "Adds tabs along the top of the book"
+msgstr "Προσθέτει καρτέλες στο πάνω μέρος του βιβλίου"
+
+#: settings_fields.php:210
+msgid "Tab Width"
+msgstr "tab Πλάτος"
+
+#: settings_fields.php:211
+msgid "Set the width of each tab. Can be a number or CSS string value"
+msgstr ""
+"Ρυθμίστε το πλάτος της κάθε καρτέλας. Μπορεί να είναι ένας αριθμός ή CSS "
+"τιμή συμβολοσειράς"
+
+#: settings_fields.php:218
+msgid "Tab Height"
+msgstr "Ύψος καρτέλα"
+
+#: settings_fields.php:219
+msgid "Set the height of each tab. Can be a number or CSS string value"
+msgstr ""
+"Ρυθμίστε το ύψος της κάθε καρτέλας. Μπορεί να είναι ένας αριθμός ή CSS τιμή "
+"συμβολοσειράς"
+
+#: settings_fields.php:226
+msgid "Next Text"
+msgstr "επόμενο Κείμενο"
+
+#: settings_fields.php:227
+msgid "Set the inline text for all \"next\" controls (tabs, arrows, etc.)"
+msgstr ""
+"Ρυθμίστε το κείμενο inline για όλους \"επόμενη\" ελέγχους (καρτέλες, βέλη, κ."
+"λπ.)"
+
+#: settings_fields.php:234
+msgid "Previous Text"
+msgstr "Προηγούμενο Κείμενο"
+
+#: settings_fields.php:235
+msgid "Set the inline text for all \"previous\" controls (tabs, arrows, etc.)"
+msgstr ""
+"Ρυθμίστε το κείμενο inline για όλα τα \"προηγούμενα\" ελέγχους (καρτέλες, "
+"βέλη, κ.λπ.)"
+
+#: settings_fields.php:242
+msgid "Next Title"
+msgstr "επόμενο Τίτλος"
+
+#: settings_fields.php:243
+msgid ""
+"Set the text for the title attributes of all \"next\" controls (tabs, "
+"arrows, etc.)"
+msgstr ""
+"Ρυθμίστε το κείμενο για τα χαρακτηριστικά τίτλο όλων \"επόμενη\" ελέγχους "
+"(καρτέλες, βέλη, κ.λπ.)"
+
+#: settings_fields.php:250
+msgid "Previous Title"
+msgstr "Προηγούμενο Τίτλος"
+
+#: settings_fields.php:251
+msgid ""
+"Set text for title attributes of all \"previous\" controls (tabs, arrows, "
+"etc.)"
+msgstr ""
+"Ρυθμίστε το κείμενο για τα χαρακτηριστικά τίτλο όλων των \"προηγούμενη\" "
+"ελέγχους (καρτέλες, βέλη, κ.λπ.)"
+
+#: settings_fields.php:259
+msgid "Check to display arrows for navigation"
+msgstr "Ελέγξτε για να εμφανίσετε βέλη για την πλοήγηση"
+
+#: settings_fields.php:266
+msgid "Auto Hide Arrows"
+msgstr "Αυτόματη απόκρυψη βέλη"
+
+#: settings_fields.php:267
+msgid "Auto hide the arrows when the controls are not hovered"
+msgstr "Αυτόματη απόκρυψη τα βέλη, όταν οι έλεγχοι δεν αιωρούνταν"
+
+#: settings_fields.php:274
+msgid "Cursor"
+msgstr "Δρομέας"
+
+#: settings_fields.php:275
+msgid ""
+"The CSS cursor used for all controls (tabs, arrows, etc.). Accepts any CSS "
+"Cursor"
+msgstr ""
+"Ο δρομέας CSS χρησιμοποιείται για όλους τους ελέγχους (καρτέλες, βέλη, κ."
+"λπ.). Αποδέχεται οποιαδήποτε Δρομέας CSS"
+
+#: settings_fields.php:282
+msgid "Hash"
+msgstr "Χασίσι"
+
+#: settings_fields.php:283
+msgid "Enables navigation using a hash string (e.g. \"#/page/1\")"
+msgstr ""
+"Επιτρέπει την πλοήγηση χρησιμοποιώντας μια σειρά κατακερματισμού (π.χ. \"# / "
+"σελίδα / 1\")"
+
+#: settings_fields.php:290
+msgid "Hash Title Text"
+msgstr "Hash Τίτλος Κείμενο"
+
+#: settings_fields.php:291
+msgid "Text which forms the hash page title (e.g. \"Book - Page 1\")"
+msgstr ""
+"Κείμενο το οποίο αποτελεί τον τίτλο της σελίδας κατακερματισμού (π.χ. "
+"«Βιβλίο - Σελίδα 1\")"
+
+#: settings_fields.php:299
+msgid "Check to enable page flipping by keyboard arrow keys"
+msgstr ""
+"Ελέγξτε για να ενεργοποιήσετε τη σελίδα κτύπημα με τα βελάκια του "
+"πληκτρολογίου"
+
+#: settings_fields.php:306 settings_fields.php:312
+msgid "Auto Play"
+msgstr "Αυτόματο Παιχνίδι"
+
+#: settings_fields.php:313
+msgid "Check to enable auto flipping pages"
+msgstr "Ελέγξτε για να ενεργοποιήσετε σελίδες αυτόματη κτύπημα"
+
+#: settings_fields.php:320
+msgid "Auto Play Delay"
+msgstr "Auto Play Καθυστέρηση"
+
+#: settings_fields.php:321
+msgid "The time in milliseconds between each automatic page flip transition"
+msgstr ""
+"Ο χρόνος σε χιλιοστά του δευτερολέπτου ανάμεσα σε κάθε αυτόματη σελίδα "
+"αναστροφή της μετάβασης"
+
+#: settings_fields.php:328 settings_fields.php:334
+msgid "Zoom"
+msgstr "Ανίπταμαι διαγωνίως"
+
+#: settings_fields.php:335
+msgid "Enable Zoom on hover"
+msgstr "Ενεργοποίηση Ζουμ σε αιώρηση"
+
+#: settings_fields.php:342
+msgid "Zoom Depth"
+msgstr "ζουμ Βάθος"
+
+#: settings_fields.php:343
+msgid "Provide zoom depth, 1 for 100%, 2 for 200% etc"
+msgstr "Παρέχετε βάθος ζουμ, 1 για το 100%, 2 για το 200% κ.λπ."
+
+#: settings_fields.php:351 settings_fields.php:357
+msgid "Shadows"
+msgstr "σκιές"
+
+#: settings_fields.php:358
+msgid "Display shadows on pages during animations"
+msgstr "σκιές οθόνη στις σελίδες κατά τη διάρκεια κινούμενα σχέδια"
+
+#: settings_fields.php:366
+msgid "Shadow Top Forward Width"
+msgstr "Σκιά Top Εμπρός Πλάτος"
+
+#: settings_fields.php:367
+msgid ""
+"The width of the top forward shadow. Only change if you change the shadow "
+"images"
+msgstr ""
+"Το πλάτος της κορυφής προς τα εμπρός σκιά. αλλάξει μόνο εάν αλλάξετε τις "
+"εικόνες σκιά"
+
+#: settings_fields.php:375
+msgid "Shadow Top Back Width"
+msgstr "Σκιά Top Επιστροφή Πλάτος"
+
+#: settings_fields.php:376
+msgid ""
+"The width of the top back animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"Το πλάτος της κορυφής πίσω animation σκιά. αλλάξει μόνο εάν αλλάξετε τις "
+"εικόνες σκιά"
+
+#: settings_fields.php:384
+msgid "Shadow Bottom Width"
+msgstr "Σκιά Κάτω Πλάτος"
+
+#: settings_fields.php:385
+msgid ""
+"The width of the bottom animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"Το πλάτος του πυθμένα σκιά animation. αλλάξει μόνο εάν αλλάξετε τις εικόνες "
+"σκιά"
+
+#: settings_fields.php:393
+msgid "Toolbar"
+msgstr "Toolbar"
+
+#: settings_fields.php:399
+msgid "Bottom Toolbar"
+msgstr "κάτω Toolbar"
+
+#: settings_fields.php:400
+msgid "It will display bottom toolbar for navigation"
+msgstr "Θα εμφανιστεί κάτω γραμμή εργαλείων για την πλοήγηση"
+
+#: settings_fields.php:408
+msgid "Toolbar Background Color"
+msgstr "Toolbar Χρώμα φόντου"
+
+#: settings_fields.php:409
+msgid "Choose toolbar background color"
+msgstr "Επιλέξτε γραμμή εργαλείων το χρώμα του φόντου"
+
+#: settings_fields.php:417
+msgid "Toolbar Text Color"
+msgstr "Toolbar Χρώμα κειμένου"
+
+#: settings_fields.php:418
+msgid "Choose toolbar text color"
+msgstr "Επιλέξτε γραμμή εργαλείων χρώμα κειμένου"
+
+#: settings_fields.php:426
+msgid "Enable Popup"
+msgstr "Ενεργοποίηση Popup"
+
+#: settings_fields.php:427
+msgid "A popup button will appear to open pages in popup"
+msgstr ""
+"Ένα κουμπί αναδυόμενο παράθυρο θα εμφανιστεί για να ανοίξει σελίδες στο "
+"αναδυόμενο"
+
+#: settings_fields.php:435
+msgid "Book Front Title"
+msgstr "Βιβλίο Μέτωπο Τίτλος"
+
+#: settings_fields.php:436
+msgid "Determines title of blank starting page"
+msgstr "Καθορίζει τον τίτλο της κενή σελίδα εκκίνησης"
+
+#: settings_fields.php:444
+msgid "Book Front Chapter"
+msgstr "Βιβλίο Μέτωπο Κεφάλαιο"
+
+#: settings_fields.php:445
+msgid "Determines chapter name of blank starting page"
+msgstr "Καθορίζει το όνομα κεφάλαιο κενή σελίδα εκκίνησης"
+
+#: settings_fields.php:453
+msgid "Book Back Title"
+msgstr "Βιβλίο Επιστροφή Τίτλος"
+
+#: settings_fields.php:454
+msgid "Determines title of blank ending page"
+msgstr "Καθορίζει τον τίτλο της κενή σελίδα κατάληξη"
+
+#: settings_fields.php:462
+msgid "Book Back Chapter"
+msgstr "Βιβλίο Επιστροφή κεφαλαίου"
+
+#: settings_fields.php:463
+msgid "Determines chapter name of blank ending page"
+msgstr "Καθορίζει το όνομα κεφάλαιο κενή σελίδα κατάληξη"

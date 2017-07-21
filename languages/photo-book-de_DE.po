@@ -1,0 +1,708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-12-05 09:11+0500\n"
+"PO-Revision-Date: 2016-12-06 09:29+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../../../../../../Users/hp/Desktop/photo-book-gallery\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: class.main.php:33 class.main.php:44
+msgid "Photo Books"
+msgstr "Fotobücher"
+
+#: class.main.php:34 plugin.class.php:76 plugin.class.php:164
+msgid "Photo Book"
+msgstr "Fotobuch"
+
+#: class.main.php:36 plugin.class.php:156 plugin.class.php:239
+msgid "Add New Book"
+msgstr "Neues Buch hinzufügen"
+
+#: class.main.php:37
+msgid "Edit Book"
+msgstr "Bearbeiten Buch"
+
+#: class.main.php:38
+msgid "New Book"
+msgstr "Neues Buch"
+
+#: class.main.php:39
+msgid "View Photo Book"
+msgstr "Ansicht Fotobuch"
+
+#: class.main.php:40
+msgid "Search Books"
+msgstr "Bücher suchen"
+
+#: class.main.php:41
+msgid "No Photo Books found"
+msgstr "Keine Fotobücher gefunden"
+
+#: class.main.php:42
+msgid "No Photo Books found in Trash"
+msgstr "Keine Fotobücher gefunden im Papierkorb"
+
+#: class.main.php:43
+msgid "Parent Book:"
+msgstr "Übergeordnetes Buch:"
+
+#: class.main.php:85
+msgid "Images"
+msgstr "Bilder"
+
+#: class.main.php:87
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: class.main.php:89
+msgid "Help and Support"
+msgstr "Hilfe und Unterstützung"
+
+#: class.main.php:95
+msgid "Use following shortcode in text section of editor."
+msgstr "Verwenden Sie den folgenden Kurzcode im Textabschnitt des Editors."
+
+#: class.main.php:105
+msgid "Having trouble? Book is not working properly?"
+msgstr "Probleme haben? Buch funktioniert nicht richtig?"
+
+#: class.main.php:106
+msgid "How to use"
+msgstr "Wie benutzt man"
+
+#: class.main.php:107
+msgid "contact us for help"
+msgstr "Kontaktieren Sie uns für Hilfe"
+
+#: class.main.php:111
+msgid "Why Upgrade to Pro?"
+msgstr "Warum Upgrade auf Pro?"
+
+#: class.main.php:113
+msgid ""
+"In pro version you will be able to add page title and chapter title with "
+"each page."
+msgstr ""
+"In Pro-Version können Sie Seite Titel und Kapitel Titel mit jeder Seite "
+"hinzufügen."
+
+#: class.main.php:114
+msgid "By upgrading to pro, your existing books will remain saved."
+msgstr "Durch das Upgrade auf Pro werden Ihre vorhandenen Bücher gespeichert."
+
+#: class.main.php:117
+msgid "Unlock Pro Features"
+msgstr "Unlock Pro Features"
+
+#: class.main.php:120
+msgid "Visual Composer Addon"
+msgstr "Visual Komponist-Addon"
+
+#: class.main.php:122
+msgid "Photo Book is now available as visual composer extension"
+msgstr "Fotobuch ist jetzt als visuelle Komponistenerweiterung erhältlich"
+
+#: class.main.php:123
+msgid "Get Here"
+msgstr "Erhalten Sie hier"
+
+#: class.main.php:126
+msgid "Real 3D Flip Book"
+msgstr "Echtes 3D-Flip-Buch"
+
+#: class.main.php:128
+msgid "We have developed a new plugin with real 3d effect and touch support"
+msgstr ""
+"Wir haben ein neues Plugin mit echtem 3D Effekt und Touch Support entwickelt"
+
+#: class.main.php:129
+msgid "Download FREE"
+msgstr "Gratis herunterladen"
+
+#: class.main.php:163
+msgid "Looking for Real 3D Book?"
+msgstr "Auf der Suche nach echten 3D-Buch?"
+
+#: class.main.php:166
+msgid "Download Real 3D Flip Book"
+msgstr "Herunterladen Real 3D Flip Book"
+
+#: class.main.php:291 class.main.php:312 class.main.php:343 class.main.php:360
+msgid "Default"
+msgstr "Standard"
+
+#: class.main.php:298 class.main.php:319 class.main.php:367
+msgid "Pro Feature"
+msgstr "Pro-Funktion"
+
+#: class.main.php:357 plugin.class.php:111 plugin.class.php:117
+#: plugin.class.php:124 plugin.class.php:130 plugin.class.php:132
+#: plugin.class.php:197 plugin.class.php:204 plugin.class.php:210
+#: plugin.class.php:212 plugin.class.php:224
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: plugin.class.php:62
+msgid "Photo Book Gallery Settings"
+msgstr "Fotobuch-Galerieeinstellungen"
+
+#: plugin.class.php:65
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: plugin.class.php:65
+msgid "Please use new system to create Photo Books"
+msgstr "Verwenden Sie neues System, um Fotobücher zu erstellen"
+
+#: plugin.class.php:66
+msgid "HERE"
+msgstr "HIER"
+
+#: plugin.class.php:69
+msgid "Dismiss this notice"
+msgstr "Ignoriere die Nachricht"
+
+#: plugin.class.php:78 plugin.class.php:166 settings_fields.php:6
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: plugin.class.php:81 plugin.class.php:169 settings_fields.php:12
+msgid "Book Width"
+msgstr "Buchbreite"
+
+#: plugin.class.php:84 plugin.class.php:88 plugin.class.php:171
+#: plugin.class.php:174
+msgid "Leave Blank for Responsive"
+msgstr "Lassen Sie Blank für Responsive"
+
+#: plugin.class.php:86 plugin.class.php:172 settings_fields.php:20
+msgid "Book Height"
+msgstr "Buchhöhe"
+
+#: plugin.class.php:91 plugin.class.php:177 settings_fields.php:28
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+#: plugin.class.php:93 plugin.class.php:179 settings_fields.php:48
+msgid "Starting Page"
+msgstr "Startseite"
+
+#: plugin.class.php:97 plugin.class.php:183 settings_fields.php:36
+msgid "Reading Direction"
+msgstr "Leserichtung"
+
+#: plugin.class.php:100 plugin.class.php:186 settings_fields.php:38
+msgid "Right to Left"
+msgstr "Rechts nach links"
+
+#: plugin.class.php:101 plugin.class.php:187 settings_fields.php:39
+msgid "Left to Right"
+msgstr "Links nach rechts"
+
+#: plugin.class.php:104 plugin.class.php:190 settings_fields.php:116
+msgid "Page Padding"
+msgstr "Seitenpolsterung"
+
+#: plugin.class.php:108 plugin.class.php:194 settings_fields.php:124
+msgid "Page Numbers"
+msgstr "Seitenzahlen"
+
+#: plugin.class.php:109 plugin.class.php:136 plugin.class.php:138
+#: plugin.class.php:195 plugin.class.php:216 plugin.class.php:218
+msgid "Show"
+msgstr "Show"
+
+#: plugin.class.php:110 plugin.class.php:196 settings_fields.php:86
+msgid "Closed Book"
+msgstr "Geschlossenes Buch"
+
+#: plugin.class.php:114 plugin.class.php:221
+msgid "Book Title (for your reference)"
+msgstr "Buch-Titel (als Ihre Referenz)"
+
+#: plugin.class.php:116 plugin.class.php:223
+msgid "Zoom on Hover"
+msgstr "Zoom auf Schwebeflug"
+
+#: plugin.class.php:120 plugin.class.php:200 settings_fields.php:140
+msgid "Controls"
+msgstr "Bedienelemente"
+
+#: plugin.class.php:123 plugin.class.php:203
+msgid "AutoPlay"
+msgstr "Automatisches Abspielen"
+
+#: plugin.class.php:125 plugin.class.php:205
+msgid "AutoPlay delay for each page (in ms)"
+msgstr "AutoPlay-Verzögerung für jede Seite (in ms)"
+
+#: plugin.class.php:129
+msgid "Turn Page by clicking Image"
+msgstr "Drehen Sie die Seite, indem Sie auf Bild klicken"
+
+#: plugin.class.php:131 plugin.class.php:211 settings_fields.php:298
+msgid "Keyboard Controls"
+msgstr "Tastaturbedienung"
+
+#: plugin.class.php:135 plugin.class.php:215 settings_fields.php:202
+msgid "Navigation Tabs"
+msgstr "Navigations-Registerkarten"
+
+#: plugin.class.php:137 plugin.class.php:217 settings_fields.php:258
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: plugin.class.php:155 plugin.class.php:238
+msgid "Delete"
+msgstr "Löschen"
+
+#: plugin.class.php:157 plugin.class.php:240 render_box_contents.php:4
+msgid "Upload Images"
+msgstr "Bilder hochladen"
+
+#: plugin.class.php:159 plugin.class.php:242
+msgid "Shortcode"
+msgstr "Kurzcode"
+
+#: plugin.class.php:209
+msgid "Turn Page by clicking anywhere"
+msgstr "Drehen Sie die Seite, indem Sie auf eine beliebige Stelle klicken"
+
+#: plugin.class.php:249
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: plugin.class.php:251
+msgid "Changes Saved"
+msgstr "Änderungen gespeichert"
+
+#: settings_fields.php:13
+msgid "Provide width for closed book in pixels, leave blank for responsive"
+msgstr ""
+"Geben Sie Breite für geschlossenes Buch in Pixeln an, lassen Sie leer für "
+"reagierend"
+
+#: settings_fields.php:21
+msgid "Provide height for book in pixels, leave blank for responsive"
+msgstr ""
+"Geben Sie Höhe für Buch in den Pixeln an, verlassen Sie freier Raum für "
+"responsive"
+
+#: settings_fields.php:29
+msgid "Provide speed of page turn in milliseconds"
+msgstr "Die Geschwindigkeit der Seitenumkehr in Millisekunden"
+
+#: settings_fields.php:41
+msgid "Choose reading direction for pages"
+msgstr "Wählen Sie die Leserichtung für Seiten"
+
+#: settings_fields.php:49
+msgid "Provide starting page for the book"
+msgstr "Geben Sie die Startseite für das Buch"
+
+#: settings_fields.php:56
+msgid "Easing"
+msgstr "Lockerung"
+
+#: settings_fields.php:57
+msgid "Easing method for the complete page transition"
+msgstr "Methode für den vollständigen Seitenübergang"
+
+#: settings_fields.php:64
+msgid "Ease In"
+msgstr "Leichtigkeit"
+
+#: settings_fields.php:65
+msgid "Easing method for the first half of the page transition"
+msgstr "Easing-Methode für die erste Hälfte des Seitenübergangs"
+
+#: settings_fields.php:72
+msgid "Ease Out"
+msgstr "Leichtigkeit"
+
+#: settings_fields.php:73
+msgid "Easing method for the second half of the page transition"
+msgstr "Methode für die zweite Hälfte des Seitenübergangs"
+
+#: settings_fields.php:80
+msgid "Closed Book and Covers"
+msgstr "Geschlossenes Buch und Abdeckungen"
+
+#: settings_fields.php:87
+msgid "Enable it to give the book the appearance of being closed"
+msgstr "Aktivieren Sie es, um dem Buch das Aussehen des Schließens zu geben"
+
+#: settings_fields.php:94
+msgid "Covers"
+msgstr "Abdeckungen"
+
+#: settings_fields.php:95
+msgid "Makes the first and last pages into covers by hiding page numbers"
+msgstr ""
+"Macht die erste und letzte Seite in Deckblätter, indem sie die Seitennummern "
+"ausblenden"
+
+#: settings_fields.php:102
+msgid "Auto Center"
+msgstr "Autocenter"
+
+#: settings_fields.php:103
+msgid "Makes the book position in the center of its container when closed"
+msgstr ""
+"Macht die Buchposition im geschlossenen Zustand in der Mitte des Containers"
+
+#: settings_fields.php:110
+msgid "Pages"
+msgstr "Seiten"
+
+#: settings_fields.php:117
+msgid "Provide inner space for pages in pixels"
+msgstr "Stellen Sie den Innenraum für Seiten in Pixel bereit"
+
+#: settings_fields.php:125
+msgid "Check to display page numbers"
+msgstr "Überprüfen Sie die Anzeige von Seitenzahlen"
+
+#: settings_fields.php:132
+msgid "Page Border"
+msgstr "Seitenrand"
+
+#: settings_fields.php:133
+msgid "The size of the border around each page"
+msgstr "Die Größe des Rahmens um jede Seite"
+
+#: settings_fields.php:146
+msgid "Manual Control"
+msgstr "Manuelle Kontrolle"
+
+#: settings_fields.php:147
+msgid "Enables manual page turning using click and drag"
+msgstr "Ermöglicht das manuelle Blättern durch Klicken und Ziehen"
+
+#: settings_fields.php:154
+msgid "Hovers"
+msgstr "Schwebt"
+
+#: settings_fields.php:155
+msgid "Shows a small preview of page turn on hover"
+msgstr "Zeigt eine kleine Vorschau der Seite an"
+
+#: settings_fields.php:162
+msgid "Hover Width"
+msgstr "Hover Breite"
+
+#: settings_fields.php:163
+msgid "The width of the page turn hover preview in pixels"
+msgstr "Die Breite der Seite dreht die Vorschau in Pixeln"
+
+#: settings_fields.php:170
+msgid "Hover Speed"
+msgstr "Hover Geschwindigkeit"
+
+#: settings_fields.php:171
+msgid "The speed in milliseconds of the page turn hover preview"
+msgstr "Die Geschwindigkeit in Millisekunden der Seite drehen Hover-Vorschau"
+
+#: settings_fields.php:178
+msgid "Hover Treshold"
+msgstr "Hover Schwellenwert"
+
+#: settings_fields.php:179
+msgid "The percentage used with manual page dragging"
+msgstr "Der Prozentsatz, der für das Ziehen der Seite verwendet wird"
+
+#: settings_fields.php:186
+msgid "Hover Click"
+msgstr "Klicken Sie auf Hover"
+
+#: settings_fields.php:187
+msgid ""
+"Enables a \"click\" on the page turn hover preview, when using manual page "
+"turning, to begin the page turn"
+msgstr ""
+"Aktiviert einen \"Klick\" auf der Seitenumkehr-Vorschau, wenn Sie das "
+"manuelle Seitenumdrehen verwenden, um den Seitenumzug zu starten"
+
+#: settings_fields.php:194
+msgid "Overlays"
+msgstr "Überlagerungen"
+
+#: settings_fields.php:195
+msgid ""
+"Enables navigation using a page sized overlay. When enabled page content, "
+"like links, will not be clickable. If manual option is enabled, overlays are "
+"removed"
+msgstr ""
+"Aktiviert die Navigation über ein Seitenformat-Overlay. Wenn freigegebene "
+"Seiteninhalte, wie Links, nicht anklickbar sind. Wenn manuelle Option "
+"aktiviert ist, werden Overlays entfernt"
+
+#: settings_fields.php:203
+msgid "Adds tabs along the top of the book"
+msgstr "Fügt am oberen Rand des Buchs Registerkarten hinzu"
+
+#: settings_fields.php:210
+msgid "Tab Width"
+msgstr "Tab-Breite"
+
+#: settings_fields.php:211
+msgid "Set the width of each tab. Can be a number or CSS string value"
+msgstr ""
+"Legen Sie die Breite der einzelnen Registerkarten fest. Kann eine Zahl oder "
+"ein CSS-String sein"
+
+#: settings_fields.php:218
+msgid "Tab Height"
+msgstr "Tab Höhe"
+
+#: settings_fields.php:219
+msgid "Set the height of each tab. Can be a number or CSS string value"
+msgstr ""
+"Legen Sie die Höhe der einzelnen Registerkarten fest. Kann eine Zahl oder "
+"ein CSS-String sein"
+
+#: settings_fields.php:226
+msgid "Next Text"
+msgstr "Nächster Text"
+
+#: settings_fields.php:227
+msgid "Set the inline text for all \"next\" controls (tabs, arrows, etc.)"
+msgstr ""
+"Setzen Sie den Inline-Text für alle \"nächsten\" Bedienelemente (Tabs, "
+"Pfeile usw.)"
+
+#: settings_fields.php:234
+msgid "Previous Text"
+msgstr "Vorheriger Text"
+
+#: settings_fields.php:235
+msgid "Set the inline text for all \"previous\" controls (tabs, arrows, etc.)"
+msgstr ""
+"Setzen Sie den Inline-Text für alle \"vorherigen\" Steuerelemente "
+"(Registerkarten, Pfeile usw.)"
+
+#: settings_fields.php:242
+msgid "Next Title"
+msgstr "Nächster Titel"
+
+#: settings_fields.php:243
+msgid ""
+"Set the text for the title attributes of all \"next\" controls (tabs, "
+"arrows, etc.)"
+msgstr ""
+"Setzen Sie den Text für die Titelattribute aller \"nächsten\" Steuerelemente "
+"(Tabs, Pfeile usw.)"
+
+#: settings_fields.php:250
+msgid "Previous Title"
+msgstr "Vorheriger Titel"
+
+#: settings_fields.php:251
+msgid ""
+"Set text for title attributes of all \"previous\" controls (tabs, arrows, "
+"etc.)"
+msgstr ""
+"Text für die Titelattribute aller \"vorherigen\" Steuerelemente "
+"(Tabulatoren, Pfeile usw.)"
+
+#: settings_fields.php:259
+msgid "Check to display arrows for navigation"
+msgstr "Überprüfen Sie, um Pfeile für die Navigation anzuzeigen"
+
+#: settings_fields.php:266
+msgid "Auto Hide Arrows"
+msgstr "Automatische Ausblenden von Pfeilen"
+
+#: settings_fields.php:267
+msgid "Auto hide the arrows when the controls are not hovered"
+msgstr ""
+"Automatisches Ausblenden der Pfeile, wenn die Steuerelemente nicht schweben"
+
+#: settings_fields.php:274
+msgid "Cursor"
+msgstr "Mauszeiger"
+
+#: settings_fields.php:275
+msgid ""
+"The CSS cursor used for all controls (tabs, arrows, etc.). Accepts any CSS "
+"Cursor"
+msgstr ""
+"Der CSS-Cursor für alle Bedienelemente (Tabs, Pfeile usw.). Akzeptiert jeden "
+"CSS-Cursor"
+
+#: settings_fields.php:282
+msgid "Hash"
+msgstr "Hash"
+
+#: settings_fields.php:283
+msgid "Enables navigation using a hash string (e.g. \"#/page/1\")"
+msgstr ""
+"Aktiviert die Navigation über einen Hash-String (z. B. \"# / page / 1\")"
+
+#: settings_fields.php:290
+msgid "Hash Title Text"
+msgstr "Haschentiteltext"
+
+#: settings_fields.php:291
+msgid "Text which forms the hash page title (e.g. \"Book - Page 1\")"
+msgstr "Text, der den Hash-Seitentitel bildet (z. B. \"Buch - Seite 1\")"
+
+#: settings_fields.php:299
+msgid "Check to enable page flipping by keyboard arrow keys"
+msgstr ""
+"Aktivieren Sie das Aktivieren des Seitenumblätterns über die Pfeiltasten der "
+"Tastatur"
+
+#: settings_fields.php:306 settings_fields.php:312
+msgid "Auto Play"
+msgstr "Automatisches Abspielen"
+
+#: settings_fields.php:313
+msgid "Check to enable auto flipping pages"
+msgstr "Aktivieren Sie die Option zum automatischen Blättern"
+
+#: settings_fields.php:320
+msgid "Auto Play Delay"
+msgstr "Automatische Wiedergabeverzögerung"
+
+#: settings_fields.php:321
+msgid "The time in milliseconds between each automatic page flip transition"
+msgstr "Die Zeit in Millisekunden zwischen jedem automatischen Seitenumschlag"
+
+#: settings_fields.php:328 settings_fields.php:334
+msgid "Zoom"
+msgstr "Zoom"
+
+#: settings_fields.php:335
+msgid "Enable Zoom on hover"
+msgstr "Aktivieren Sie Zoom auf hover"
+
+#: settings_fields.php:342
+msgid "Zoom Depth"
+msgstr "Zoom-Tiefe"
+
+#: settings_fields.php:343
+msgid "Provide zoom depth, 1 for 100%, 2 for 200% etc"
+msgstr "Geben Sie Zoomtiefe, 1 für 100%, 2 für 200% etc"
+
+#: settings_fields.php:351 settings_fields.php:357
+msgid "Shadows"
+msgstr "Schatten"
+
+#: settings_fields.php:358
+msgid "Display shadows on pages during animations"
+msgstr "Anzeige von Schatten auf Seiten während der Animationen"
+
+#: settings_fields.php:366
+msgid "Shadow Top Forward Width"
+msgstr "Schatten Obere Breite"
+
+#: settings_fields.php:367
+msgid ""
+"The width of the top forward shadow. Only change if you change the shadow "
+"images"
+msgstr ""
+"Die Breite des oberen Vorwärtsschattens. Ändern Sie nur, wenn Sie die "
+"Schattenbilder ändern"
+
+#: settings_fields.php:375
+msgid "Shadow Top Back Width"
+msgstr "Schatten Obere Rückenbreite"
+
+#: settings_fields.php:376
+msgid ""
+"The width of the top back animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"Die Breite der oberen Rückseite Animation Schatten. Ändern Sie nur, wenn Sie "
+"die Schattenbilder ändern"
+
+#: settings_fields.php:384
+msgid "Shadow Bottom Width"
+msgstr "Schattenunterseite"
+
+#: settings_fields.php:385
+msgid ""
+"The width of the bottom animation shadow. Only change if you change the "
+"shadow images"
+msgstr ""
+"Die Breite des unteren Animationsschattens. Ändern Sie nur, wenn Sie die "
+"Schattenbilder ändern"
+
+#: settings_fields.php:393
+msgid "Toolbar"
+msgstr "Symbolleiste"
+
+#: settings_fields.php:399
+msgid "Bottom Toolbar"
+msgstr "Unten Werkzeugleiste"
+
+#: settings_fields.php:400
+msgid "It will display bottom toolbar for navigation"
+msgstr "Es wird die untere Symbolleiste für die Navigation angezeigt"
+
+#: settings_fields.php:408
+msgid "Toolbar Background Color"
+msgstr "Symbolleiste Hintergrundfarbe"
+
+#: settings_fields.php:409
+msgid "Choose toolbar background color"
+msgstr "Wählen Sie die Hintergrundfarbe der Symbolleiste"
+
+#: settings_fields.php:417
+msgid "Toolbar Text Color"
+msgstr "Symbolleiste Textfarbe"
+
+#: settings_fields.php:418
+msgid "Choose toolbar text color"
+msgstr "Wählen Sie Symbolleistenfarbe"
+
+#: settings_fields.php:426
+msgid "Enable Popup"
+msgstr "Aktivieren Sie Popup"
+
+#: settings_fields.php:427
+msgid "A popup button will appear to open pages in popup"
+msgstr "Ein Popup-Button erscheint, um Seiten im Popup zu öffnen"
+
+#: settings_fields.php:435
+msgid "Book Front Title"
+msgstr "Vorderseite Titel"
+
+#: settings_fields.php:436
+msgid "Determines title of blank starting page"
+msgstr "Bestimmt den Titel der leeren Anfangsseite"
+
+#: settings_fields.php:444
+msgid "Book Front Chapter"
+msgstr "Vorderseite"
+
+#: settings_fields.php:445
+msgid "Determines chapter name of blank starting page"
+msgstr "Bestimmt den Kapitelnamen der leeren Anfangsseite"
+
+#: settings_fields.php:453
+msgid "Book Back Title"
+msgstr "Buch Zurück Titel"
+
+#: settings_fields.php:454
+msgid "Determines title of blank ending page"
+msgstr "Bestimmt den Titel der leeren Seite"
+
+#: settings_fields.php:462
+msgid "Book Back Chapter"
+msgstr "Buch Zurück Kapitel"
+
+#: settings_fields.php:463
+msgid "Determines chapter name of blank ending page"
+msgstr "Bestimmt den Kapitelnamen der leeren Seite"

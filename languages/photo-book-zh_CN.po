@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: zh_CN\n"
+
+#: class.main.php:33 class.main.php:44
+msgid "Photo Books"
+msgstr "照片书"
+
+#: class.main.php:34 plugin.class.php:76 plugin.class.php:164
+msgid "Photo Book"
+msgstr "照片书"
+
+#: class.main.php:36 plugin.class.php:156 plugin.class.php:239
+msgid "Add New Book"
+msgstr "添加新书"
+
+#: class.main.php:37
+msgid "Edit Book"
+msgstr "编辑书"
+
+#: class.main.php:38
+msgid "New Book"
+msgstr "新书"
+
+#: class.main.php:39
+msgid "View Photo Book"
+msgstr "查看照片书"
+
+#: class.main.php:40
+msgid "Search Books"
+msgstr "搜索图书"
+
+#: class.main.php:41
+msgid "No Photo Books found"
+msgstr "找不到照片书"
+
+#: class.main.php:42
+msgid "No Photo Books found in Trash"
+msgstr "在垃圾桶中找不到相册"
+
+#: class.main.php:43
+msgid "Parent Book:"
+msgstr "家长书："
+
+#: class.main.php:85
+msgid "Images"
+msgstr "图片"
+
+#: class.main.php:87
+msgid "Settings"
+msgstr "设置"
+
+#: class.main.php:89
+msgid "Help and Support"
+msgstr "帮助和支持"
+
+#: class.main.php:95
+msgid "Use following shortcode in text section of editor."
+msgstr "在编辑器的文本部分使用以下短代码。"
+
+#: class.main.php:105
+msgid "Having trouble? Book is not working properly?"
+msgstr "遇到麻烦？ 书不工作正常？"
+
+#: class.main.php:106
+msgid "How to use"
+msgstr "如何使用"
+
+#: class.main.php:107
+msgid "contact us for help"
+msgstr "联系我们寻求帮助"
+
+#: class.main.php:111
+msgid "Why Upgrade to Pro?"
+msgstr "为什么要升级到Pro？"
+
+#: class.main.php:113
+msgid ""
+"In pro version you will be able to add page title and chapter title with "
+"each page."
+msgstr "在专业版，你将能够添加页面标题和章节标题与每一页。"
+
+#: class.main.php:114
+msgid "By upgrading to pro, your existing books will remain saved."
+msgstr "升级为专业版后，您现有的书籍仍会保存。"
+
+#: class.main.php:117
+msgid "Unlock Pro Features"
+msgstr "解锁Pro功能"
+
+#: class.main.php:120
+msgid "Visual Composer Addon"
+msgstr "Visual Composer插件"
+
+#: class.main.php:122
+msgid "Photo Book is now available as visual composer extension"
+msgstr "照片书现在可作为视觉作曲家扩展"
+
+#: class.main.php:123
+msgid "Get Here"
+msgstr "过来"
+
+#: class.main.php:126
+msgid "Real 3D Flip Book"
+msgstr "真正的3D活页簿"
+
+#: class.main.php:128
+msgid "We have developed a new plugin with real 3d effect and touch support"
+msgstr "我们开发了一个新的插件与真正的3D效果和触摸支持"
+
+#: class.main.php:129
+msgid "Download FREE"
+msgstr "免费下载"
+
+#: class.main.php:163
+msgid "Looking for Real 3D Book?"
+msgstr "寻找真正的3D书？"
+
+#: class.main.php:166
+msgid "Download Real 3D Flip Book"
+msgstr "下载真正的3D翻转书"
+
+#: class.main.php:291 class.main.php:312 class.main.php:343 class.main.php:360
+msgid "Default"
+msgstr "默认"
+
+#: class.main.php:298 class.main.php:319 class.main.php:367
+msgid "Pro Feature"
+msgstr "Pro功能"
+
+#: class.main.php:357 plugin.class.php:111 plugin.class.php:117
+#: plugin.class.php:124 plugin.class.php:130 plugin.class.php:132
+#: plugin.class.php:197 plugin.class.php:204 plugin.class.php:210
+#: plugin.class.php:212 plugin.class.php:224
+msgid "Enable"
+msgstr "启用"
+
+#: plugin.class.php:62
+msgid "Photo Book Gallery Settings"
+msgstr "照片书库设置"
+
+#: plugin.class.php:65
+msgid "Recommended"
+msgstr "推荐的"
+
+#: plugin.class.php:65
+msgid "Please use new system to create Photo Books"
+msgstr "请使用新系统来创建照片书"
+
+#: plugin.class.php:66
+msgid "HERE"
+msgstr "这里"
+
+#: plugin.class.php:69
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: plugin.class.php:78 plugin.class.php:166 settings_fields.php:6
+msgid "General Settings"
+msgstr "常规设置"
+
+#: plugin.class.php:81 plugin.class.php:169 settings_fields.php:12
+msgid "Book Width"
+msgstr "书宽"
+
+#: plugin.class.php:84 plugin.class.php:88 plugin.class.php:171
+#: plugin.class.php:174
+msgid "Leave Blank for Responsive"
+msgstr "留空以响应"
+
+#: plugin.class.php:86 plugin.class.php:172 settings_fields.php:20
+msgid "Book Height"
+msgstr "书高"
+
+#: plugin.class.php:91 plugin.class.php:177 settings_fields.php:28
+msgid "Speed"
+msgstr "速度"
+
+#: plugin.class.php:93 plugin.class.php:179 settings_fields.php:48
+msgid "Starting Page"
+msgstr "起始页"
+
+#: plugin.class.php:97 plugin.class.php:183 settings_fields.php:36
+msgid "Reading Direction"
+msgstr "阅读方向"
+
+#: plugin.class.php:100 plugin.class.php:186 settings_fields.php:38
+msgid "Right to Left"
+msgstr "右到左"
+
+#: plugin.class.php:101 plugin.class.php:187 settings_fields.php:39
+msgid "Left to Right"
+msgstr "左到右"
+
+#: plugin.class.php:104 plugin.class.php:190 settings_fields.php:116
+msgid "Page Padding"
+msgstr "页面填充"
+
+#: plugin.class.php:108 plugin.class.php:194 settings_fields.php:124
+msgid "Page Numbers"
+msgstr "页码"
+
+#: plugin.class.php:109 plugin.class.php:136 plugin.class.php:138
+#: plugin.class.php:195 plugin.class.php:216 plugin.class.php:218
+msgid "Show"
+msgstr "显示"
+
+#: plugin.class.php:110 plugin.class.php:196 settings_fields.php:86
+msgid "Closed Book"
+msgstr "闭合的书"
+
+#: plugin.class.php:114 plugin.class.php:221
+msgid "Book Title (for your reference)"
+msgstr "图书标题（供参考）"
+
+#: plugin.class.php:116 plugin.class.php:223
+msgid "Zoom on Hover"
+msgstr "缩放悬停"
+
+#: plugin.class.php:120 plugin.class.php:200 settings_fields.php:140
+msgid "Controls"
+msgstr "控件"
+
+#: plugin.class.php:123 plugin.class.php:203
+msgid "AutoPlay"
+msgstr "自动播放"
+
+#: plugin.class.php:125 plugin.class.php:205
+msgid "AutoPlay delay for each page (in ms)"
+msgstr "每页的自动播放延迟（以毫秒为单位）"
+
+#: plugin.class.php:129
+msgid "Turn Page by clicking Image"
+msgstr "通过单击图像打开页面"
+
+#: plugin.class.php:131 plugin.class.php:211 settings_fields.php:298
+msgid "Keyboard Controls"
+msgstr "键盘控制"
+
+#: plugin.class.php:135 plugin.class.php:215 settings_fields.php:202
+msgid "Navigation Tabs"
+msgstr "导航选项卡"
+
+#: plugin.class.php:137 plugin.class.php:217 settings_fields.php:258
+msgid "Arrows"
+msgstr "箭头"
+
+#: plugin.class.php:155 plugin.class.php:238
+msgid "Delete"
+msgstr "删除"
+
+#: plugin.class.php:157 plugin.class.php:240 render_box_contents.php:4
+msgid "Upload Images"
+msgstr "上传图片"
+
+#: plugin.class.php:159 plugin.class.php:242
+msgid "Shortcode"
+msgstr "短代码"
+
+#: plugin.class.php:209
+msgid "Turn Page by clicking anywhere"
+msgstr "通过单击任何地方翻页"
+
+#: plugin.class.php:249
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: plugin.class.php:251
+msgid "Changes Saved"
+msgstr "更改已保存"
+
+#: settings_fields.php:13
+msgid "Provide width for closed book in pixels, leave blank for responsive"
+msgstr "提供已关闭图书的宽度（以像素为单位），留空以回应"
+
+#: settings_fields.php:21
+msgid "Provide height for book in pixels, leave blank for responsive"
+msgstr "提供书的高度（以像素为单位），留空以回应"
+
+#: settings_fields.php:29
+msgid "Provide speed of page turn in milliseconds"
+msgstr "提供页面转动的速度（以毫秒为单位）"
+
+#: settings_fields.php:41
+msgid "Choose reading direction for pages"
+msgstr "选择页面的阅读方向"
+
+#: settings_fields.php:49
+msgid "Provide starting page for the book"
+msgstr "提供图书的起始页"
+
+#: settings_fields.php:56
+msgid "Easing"
+msgstr "缓和"
+
+#: settings_fields.php:57
+msgid "Easing method for the complete page transition"
+msgstr "用于完成页面转换的缓冲方法"
+
+#: settings_fields.php:64
+msgid "Ease In"
+msgstr "轻松"
+
+#: settings_fields.php:65
+msgid "Easing method for the first half of the page transition"
+msgstr "缓冲方法为前半段的页面转换"
+
+#: settings_fields.php:72
+msgid "Ease Out"
+msgstr "缓解"
+
+#: settings_fields.php:73
+msgid "Easing method for the second half of the page transition"
+msgstr "缓和方法为后半段的页面转换"
+
+#: settings_fields.php:80
+msgid "Closed Book and Covers"
+msgstr "封闭的书和盖子"
+
+#: settings_fields.php:87
+msgid "Enable it to give the book the appearance of being closed"
+msgstr "启用它以给书籍关闭的外观"
+
+#: settings_fields.php:94
+msgid "Covers"
+msgstr "盖子"
+
+#: settings_fields.php:95
+msgid "Makes the first and last pages into covers by hiding page numbers"
+msgstr "通过隐藏页码使第一页和最后一页成为封面"
+
+#: settings_fields.php:102
+msgid "Auto Center"
+msgstr "自动中心"
+
+#: settings_fields.php:103
+msgid "Makes the book position in the center of its container when closed"
+msgstr "关闭时使书本位置在其容器的中心"
+
+#: settings_fields.php:110
+msgid "Pages"
+msgstr "页面"
+
+#: settings_fields.php:117
+msgid "Provide inner space for pages in pixels"
+msgstr "为像素中的页面提供内部空间"
+
+#: settings_fields.php:125
+msgid "Check to display page numbers"
+msgstr "检查以显示页码"
+
+#: settings_fields.php:132
+msgid "Page Border"
+msgstr "页面边框"
+
+#: settings_fields.php:133
+msgid "The size of the border around each page"
+msgstr "每个页面周围的边框的大小"
+
+#: settings_fields.php:146
+msgid "Manual Control"
+msgstr "手动控制"
+
+#: settings_fields.php:147
+msgid "Enables manual page turning using click and drag"
+msgstr "使用单击和拖动启用手动翻页"
+
+#: settings_fields.php:154
+msgid "Hovers"
+msgstr "徘徊"
+
+#: settings_fields.php:155
+msgid "Shows a small preview of page turn on hover"
+msgstr "显示悬停时网页开启的小预览"
+
+#: settings_fields.php:162
+msgid "Hover Width"
+msgstr "悬停宽度"
+
+#: settings_fields.php:163
+msgid "The width of the page turn hover preview in pixels"
+msgstr "页面的宽度以像素为单位轮转悬停预览"
+
+#: settings_fields.php:170
+msgid "Hover Speed"
+msgstr "悬停速度"
+
+#: settings_fields.php:171
+msgid "The speed in milliseconds of the page turn hover preview"
+msgstr "页面转动悬停预览的速度（以毫秒为单位）"
+
+#: settings_fields.php:178
+msgid "Hover Treshold"
+msgstr "悬停阈值"
+
+#: settings_fields.php:179
+msgid "The percentage used with manual page dragging"
+msgstr "手动页面拖动所使用的百分比"
+
+#: settings_fields.php:186
+msgid "Hover Click"
+msgstr "悬停单击"
+
+#: settings_fields.php:187
+msgid ""
+"Enables a \"click\" on the page turn hover preview, when using manual page "
+"turning, to begin the page turn"
+msgstr "启用“点击”页面翻转悬停预览，当使用手动翻页时，开始翻页"
+
+#: settings_fields.php:194
+msgid "Overlays"
+msgstr "叠加"
+
+#: settings_fields.php:195
+msgid ""
+"Enables navigation using a page sized overlay. When enabled page content, "
+"like links, will not be clickable. If manual option is enabled, overlays are "
+"removed"
+msgstr ""
+"使用页面大小的叠加层启用导航。 启用的网页内容（如链接）将无法点击。 如果启用"
+"手动选项，覆盖层将被删除"
+
+#: settings_fields.php:203
+msgid "Adds tabs along the top of the book"
+msgstr "在书顶部添加标签"
+
+#: settings_fields.php:210
+msgid "Tab Width"
+msgstr "标签宽度"
+
+#: settings_fields.php:211
+msgid "Set the width of each tab. Can be a number or CSS string value"
+msgstr "设置每个选项卡的宽度。 可以是数字或CSS字符串值"
+
+#: settings_fields.php:218
+msgid "Tab Height"
+msgstr "标签高度"
+
+#: settings_fields.php:219
+msgid "Set the height of each tab. Can be a number or CSS string value"
+msgstr "设置每个选项卡的高度。 可以是数字或CSS字符串值"
+
+#: settings_fields.php:226
+msgid "Next Text"
+msgstr "下一个文本"
+
+#: settings_fields.php:227
+msgid "Set the inline text for all \"next\" controls (tabs, arrows, etc.)"
+msgstr "设置所有“下一个”控件（标签，箭头等）的内联文本"
+
+#: settings_fields.php:234
+msgid "Previous Text"
+msgstr "上一个文本"
+
+#: settings_fields.php:235
+msgid "Set the inline text for all \"previous\" controls (tabs, arrows, etc.)"
+msgstr "设置所有“上一个”控件（标签，箭头等）的内联文本，"
+
+#: settings_fields.php:242
+msgid "Next Title"
+msgstr "下一个标题"
+
+#: settings_fields.php:243
+msgid ""
+"Set the text for the title attributes of all \"next\" controls (tabs, "
+"arrows, etc.)"
+msgstr "设置所有“下一个”控件（选项卡，箭头等）的标题属性的文本，"
+
+#: settings_fields.php:250
+msgid "Previous Title"
+msgstr "上一标题"
+
+#: settings_fields.php:251
+msgid ""
+"Set text for title attributes of all \"previous\" controls (tabs, arrows, "
+"etc.)"
+msgstr "设置所有“上一个”控件（标签，箭头等）的标题属性的文本"
+
+#: settings_fields.php:259
+msgid "Check to display arrows for navigation"
+msgstr "选中以显示导航箭头"
+
+#: settings_fields.php:266
+msgid "Auto Hide Arrows"
+msgstr "自动隐藏箭头"
+
+#: settings_fields.php:267
+msgid "Auto hide the arrows when the controls are not hovered"
+msgstr "当控件不悬停时自动隐藏箭头"
+
+#: settings_fields.php:274
+msgid "Cursor"
+msgstr "光标"
+
+#: settings_fields.php:275
+msgid ""
+"The CSS cursor used for all controls (tabs, arrows, etc.). Accepts any CSS "
+"Cursor"
+msgstr "用于所有控件（标签，箭头等）的CSS光标。 接受任何CSS光标"
+
+#: settings_fields.php:282
+msgid "Hash"
+msgstr "哈希"
+
+#: settings_fields.php:283
+msgid "Enables navigation using a hash string (e.g. \"#/page/1\")"
+msgstr "使用哈希字符串（例如“＃/ page / 1”）启用导航"
+
+#: settings_fields.php:290
+msgid "Hash Title Text"
+msgstr "哈希标题文本"
+
+#: settings_fields.php:291
+msgid "Text which forms the hash page title (e.g. \"Book - Page 1\")"
+msgstr "形成散列页标题的文本（例如“Book - Page 1”）"
+
+#: settings_fields.php:299
+msgid "Check to enable page flipping by keyboard arrow keys"
+msgstr "选中以通过键盘箭头键启用页面翻转"
+
+#: settings_fields.php:306 settings_fields.php:312
+msgid "Auto Play"
+msgstr "自动播放"
+
+#: settings_fields.php:313
+msgid "Check to enable auto flipping pages"
+msgstr "选中以启用自动翻页"
+
+#: settings_fields.php:320
+msgid "Auto Play Delay"
+msgstr "自动播放延迟"
+
+#: settings_fields.php:321
+msgid "The time in milliseconds between each automatic page flip transition"
+msgstr "每次自动翻页转换之间的时间（毫秒）"
+
+#: settings_fields.php:328 settings_fields.php:334
+msgid "Zoom"
+msgstr "放大"
+
+#: settings_fields.php:335
+msgid "Enable Zoom on hover"
+msgstr "启用悬停时缩放"
+
+#: settings_fields.php:342
+msgid "Zoom Depth"
+msgstr "缩放深度"
+
+#: settings_fields.php:343
+msgid "Provide zoom depth, 1 for 100%, 2 for 200% etc"
+msgstr "提供缩放深度，1表示100％，2表示200％等"
+
+#: settings_fields.php:351 settings_fields.php:357
+msgid "Shadows"
+msgstr "阴影"
+
+#: settings_fields.php:358
+msgid "Display shadows on pages during animations"
+msgstr "在动画期间显示页面上的阴影"
+
+#: settings_fields.php:366
+msgid "Shadow Top Forward Width"
+msgstr "阴影顶部前向宽度"
+
+#: settings_fields.php:367
+msgid ""
+"The width of the top forward shadow. Only change if you change the shadow "
+"images"
+msgstr "顶部前方阴影的宽度。 仅在更改阴影图像时更改"
+
+#: settings_fields.php:375
+msgid "Shadow Top Back Width"
+msgstr "阴影顶部宽度"
+
+#: settings_fields.php:376
+msgid ""
+"The width of the top back animation shadow. Only change if you change the "
+"shadow images"
+msgstr "回顶动画阴影的宽度。 仅在更改阴影图像时更改"
+
+#: settings_fields.php:384
+msgid "Shadow Bottom Width"
+msgstr "阴影底宽"
+
+#: settings_fields.php:385
+msgid ""
+"The width of the bottom animation shadow. Only change if you change the "
+"shadow images"
+msgstr "底部动画阴影的宽度。 仅在更改阴影图像时更改"
+
+#: settings_fields.php:393
+msgid "Toolbar"
+msgstr "工具栏"
+
+#: settings_fields.php:399
+msgid "Bottom Toolbar"
+msgstr "底部工具栏"
+
+#: settings_fields.php:400
+msgid "It will display bottom toolbar for navigation"
+msgstr "它将显示导航的底部工具栏"
+
+#: settings_fields.php:408
+msgid "Toolbar Background Color"
+msgstr "工具栏背景颜色"
+
+#: settings_fields.php:409
+msgid "Choose toolbar background color"
+msgstr "选择工具栏背景颜色"
+
+#: settings_fields.php:417
+msgid "Toolbar Text Color"
+msgstr "工具栏文本颜色"
+
+#: settings_fields.php:418
+msgid "Choose toolbar text color"
+msgstr "选择工具栏文本颜色"
+
+#: settings_fields.php:426
+msgid "Enable Popup"
+msgstr "启用弹出"
+
+#: settings_fields.php:427
+msgid "A popup button will appear to open pages in popup"
+msgstr "将弹出一个弹出按钮，在弹出窗口中打开页面"
+
+#: settings_fields.php:435
+msgid "Book Front Title"
+msgstr "书前面标题"
+
+#: settings_fields.php:436
+msgid "Determines title of blank starting page"
+msgstr "确定空白起始页的标题"
+
+#: settings_fields.php:444
+msgid "Book Front Chapter"
+msgstr "书前章"
+
+#: settings_fields.php:445
+msgid "Determines chapter name of blank starting page"
+msgstr "确定空白起始页的章节名称"
+
+#: settings_fields.php:453
+msgid "Book Back Title"
+msgstr "书背标题"
+
+#: settings_fields.php:454
+msgid "Determines title of blank ending page"
+msgstr "确定空白结束页的标题"
+
+#: settings_fields.php:462
+msgid "Book Back Chapter"
+msgstr "书后章"
+
+#: settings_fields.php:463
+msgid "Determines chapter name of blank ending page"
+msgstr "确定空白结束页的章节名称"
